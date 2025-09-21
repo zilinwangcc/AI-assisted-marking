@@ -1,0 +1,1115 @@
+"question","rubric_id","score","review"
+"14. (5 分) 函数 $f(x)=\sin (x+2 \phi)-2 \sin \phi \cos (x+\phi)$ 的最大值为
+","Math_ShortAns_2","77.0","{
+  ""QUESTION"": ""14. (5 分) 函数 f(x)=sin(x+2φ)-2 sinφ cos(x+φ) 的最大值为"",
+  ""overall_score"": 77,
+  ""scores"": {
+    ""clarity"": 14,
+    ""coverage"": 16,
+    ""consistency"": 14,
+    ""completeness"": 15,
+    ""fairness"": 18
+  },
+  ""comments"": {
+    ""clarity"": ""The explanation follows the key ideas but its formatting and notation (e.g., extra symbols and unclear transition) detract from full clarity."",
+    ""coverage"": ""All necessary trigonometric identities and steps are mentioned, though some intermediate explanations could be expanded."",
+    ""consistency"": ""The steps are mostly consistent in logic, but typographical inconsistencies (such as the ambiguous minus signs) are present."",
+    ""completeness"": ""The answer is complete in deriving f(x)=sin x and using its maximum, yet a bit more detail on the transformation would help."",
+    ""fairness"": ""The analysis fairly targets the essential reasoning and identifies the critical errors without being overly pedantic.""
+  },
+  ""recommendations"": ""Improve the clarity of the written derivation by ensuring consistent notation and more detailed linking between steps. More careful formatting would reduce potential misunderstandings."",
+  ""confidence"": 0.95
+}"
+"14. 记 $S_{n}$ 为等比数列 $\left\{a_{n}\right\}$ 的前 $n$ 项和. 若 $a_{1}=\frac{1}{3}, a_{4}^{2}=a_{6}$, 则 $S_{5}=$
+","Math_ShortAns_6","98.0","{
+  ""overall_score"": 98,
+  ""scores"": {
+    ""clarity"": 18,
+    ""coverage"": 20,
+    ""consistency"": 20,
+    ""completeness"": 20,
+    ""fairness"": 20
+  },
+  ""comments"": {
+    ""clarity"": ""The explanation is mostly clear and shows the step‐by‐step derivation, though a bit more detailed commentary on potential student pitfalls could add clarity."",
+    ""coverage"": ""The teacher analysis covers all the required points from the rubric such as setting up the sequence, using the given condition, solving for the common ratio, and calculating the sum."",
+    ""consistency"": ""The derivation is logically consistent throughout the solution, matching the steps with the provided rubric."",
+    ""completeness"": ""All necessary steps are included and conditions (like q ≠ 0) are explicitly mentioned, making the solution comprehensive."",
+    ""fairness"": ""The analysis is fair and aligns well with the rubric criteria, enabling partial credit for minor mistakes if needed.""
+  },
+  ""recommendations"": ""Consider elaborating on potential student errors and clarifying partial credit allocation to further support objective grading."",
+  ""confidence"": 1.0
+}"
+"15. (5 分) 已知 $A, B, C$ 为圆 $O$ 上的三点, 若 $\overrightarrow{\mathrm{AO}}=\frac{1}{2}(\overrightarrow{\mathrm{AB}}+\overrightarrow{\mathrm{AC}})$, 则 $\overrightarrow{\mathrm{AB}} \overrightarrow{\mathrm{AC}}$ 的 夹角为
+","Math_ShortAns_10","96.0","{
+  ""QUESTION"": ""15. (5 分) 已知 $A, B, C$ 为圆 $O$ 上的三点, 若 $\\overrightarrow{\\mathrm{AO}}=\\frac{1}{2}(\\overrightarrow{\\mathrm{AB}}+\\overrightarrow{\\mathrm{AC}})$, 则 $\\overrightarrow{\\mathrm{AB}} \\overrightarrow{\\mathrm{AC}}$ 的 夹角为"",
+  ""TEACHER ANALYSIS"": ""解：在圆中若 $\\overrightarrow{\\mathrm{AO}}=\\frac{1}{2}(\\overrightarrow{\\mathrm{AB}}+\\overrightarrow{\\mathrm{AC}})$, 即 $2 \\overrightarrow{\\mathrm{AO}}=\\overrightarrow{\\mathrm{AB}}+\\overrightarrow{\\mathrm{AC}}$, 即 $\\overrightarrow{A B}+\\overrightarrow{A C}$ 的和向量是过 $A$, $O$ 的直径, 则以 $A B, A C$ 为邻边的四边形是矩形, 则 $\\overrightarrow{\\mathrm{AB}} \\perp \\overrightarrow{\\mathrm{AC}}$, 即 $\\overrightarrow{\\mathrm{AB}}$ 与 $\\overrightarrow{\\mathrm{AC}}$ 的夹角为 $90^{\\circ}$, 故答案为: $90^{\\circ}$"",
+  ""overall_score"": 96,
+  ""scores"": {
+    ""clarity"": 18,
+    ""coverage"": 19,
+    ""consistency"": 20,
+    ""completeness"": 19,
+    ""fairness"": 20
+  },
+  ""comments"": ""Clarity: The analysis is presented in a clear step‐by‐step manner though it could specify intermediate geometric facts in slightly more detail. Coverage: The key steps from rewriting the equation to interpreting the geometry and concluding the right angle are all addressed. Consistency: There are no internal contradictions; the reasoning flows logically. Completeness: All elements required by the rubric are essentially covered; minor additional explanation might be helpful. Fairness: The treatment is equitable, capturing the essential reasoning paths expected from students."",
+  ""recommendations"": ""Include brief reminders of why the vector sum aligning with a diameter forces a rectangle (or the perpendicularity of the sides) to further bridge algebraic manipulation and geometric intuition. Also, mention possible pitfalls for students to avoid in the vector interpretation step."",
+  ""confidence"": 1.0
+}"
+"15. (5 分) 过点 $A(4,1)$ 的圆 $C$ 与直线 $x-y=1$ 相切于点 $B(2,1)$, 则圆 $C$ 的方程为
+","Math_ShortAns_14","90.0","{
+  ""QUESTION"": ""15. (5 分) 过点 A(4,1) 的圆 C 与直线 x-y=1 相切于点 B(2,1), 则圆 C 的方程为"",
+  ""TEACHER ANALYSIS"": ""解：设圆的方程为 (x-a)²+(y-b)²=r², 则 (4-a)²+(1-b)²=r², (2-a)²+(1-b)²=r², (b-1)/(a-2)=-1, 解得 a=3, b=0, r=√2, 故所求圆的方程为 (x-3)²+y²=2. 故答案为: (x-3)²+y²=2."",
+  ""RUBRIC"": ""- [C1_set_up_equations] Set up the standard form of the circle’s equation and use the fact that points A(4,1) and B(2,1) lie on the circle to form two equations. (Max Score: 1)\n    Partial Credit: Award 1 point for correctly writing (x-a)²+(y-b)²=r² and substituting A and B to obtain (4-a)²+(1-b)²=r² and (2-a)²+(1-b)²=r².\n- [C2_apply_tangency_condition] Apply the tangency condition by using the fact that the radius OB is perpendicular to the tangent line x-y=1, leading to the relation (b-1)/(a-2) = -1. (Max Score: 1)\n    Partial Credit: Award 1 point for correctly deriving and writing the relation (b-1)/(a-2) = -1 from the perpendicularity condition.\n- [C3_solve_for_center] Solve the system of equations obtained from steps 1 and 2 to determine the circle’s center (a, b). (Max Score: 2)\n    Partial Credit: Award 1 point if the student correctly eliminates r² by equating (4-a)²+(1-b)² and (2-a)²+(1-b)² to derive a relation between a and b.\n    Award an additional 1 point for correctly using the relation (b-1)/(a-2) = -1 to solve for a and b, arriving at a=3 and b=0.\n- [C4_compute_radius_and_final_equation] Compute the radius using one of the point substitutions and write the final circle equation in standard form. (Max Score: 1)\n    Partial Credit: Award 1 point for correctly calculating r (r=√2) and writing the final answer as (x-3)²+y²=2."",
+  ""overall_score"": 90,
+  ""scores"": {
+    ""clarity"": 17,
+    ""coverage"": 18,
+    ""consistency"": 18,
+    ""completeness"": 18,
+    ""fairness"": 19
+  },
+  ""comments"": ""The teacher's analysis is overall clear and explains the main steps needed to resolve the problem. However, there are minor issues with typographical errors (e.g. the notation in the equation) that slightly affect clarity. The solution and rubric are well aligned but could provide more explicit hints to potential student mistakes, such as handling sign conventions or alternative approaches."",
+  ""recommendations"": ""Improve the typesetting/notation for the equations and include a brief discussion of common pitfalls or alternative solution methods to help students who may approach the problem differently."",
+  ""confidence"": 0.95
+}"
+"16. (5 分) 数列 $\left\{a_{n}\right\}$ 满足 $a_{n+1}+(-1)^{n} a_{n}=2 n-1$, 则 $\left\{a_{n}\right\}$ 的前 60 项和为
+","Math_ShortAns_18","67.0","{
+  ""overall_score"": 67,
+  ""scores"": {
+    ""clarity"": 12,
+    ""coverage"": 14,
+    ""consistency"": 11,
+    ""completeness"": 14,
+    ""fairness"": 16
+  },
+  ""comments"": ""The teacher analysis explains the overall idea and reaches the correct final answer, but the exposition is somewhat muddled. The splitting of the recurrence and grouping into odd and even parts is done but with uneven clarity and occasional inconsistencies (e.g., the formation and labeling of pairs). Although key steps are covered, some intermediate details (especially in the grouping of even-indexed terms) could have been more clearly explained. The rubric appears fair toward student responses, and partial credit is well-structured."",
+  ""recommendations"": ""Improve clarity by explicitly separating the two cases (odd and even) and presenting the arithmetic progression parameters in a more systematic manner. Providing clear, step‐by‐step justification for the pairing and summation would also help reduce potential misunderstandings. Consistency in the notation and index labeling should be maintained."",
+  ""confidence"": 0.95
+}"
+"17. (12 分) $S_{n}$ 为数列 $\left\{a_{n}\right\}$ 的前 $n$ 项和, 已知 $a_{n}>0, a_{n}{ }^{2}+2 a_{n}=4 S_{n}+3$
+
+(1) 求 $\left\{a_{n}\right\}$ 的通项公式:
+
+(II ) 设 $b_{n}=\frac{1}{a_{n} a_{r+1}}$, 求数列 $\left\{b_{n}\right\}$ 的前 $n$ 项和.
+","Math_ShortAns_22","88.0","{
+  ""overall_score"": 88,
+  ""scores"": {
+    ""clarity"": 18,
+    ""coverage"": 16,
+    ""consistency"": 17,
+    ""completeness"": 18,
+    ""fairness"": 19
+  },
+  ""comments"": {
+    ""clarity"": ""The problem statement, teacher analysis, and rubric are expressed clearly, with each step noted. Minor phrasing improvements might aid a few students."",
+    ""coverage"": ""The analysis covers all main parts and anticipated student approaches (e.g., subtraction, finding a₁, arithmetic sequence, and telescoping series), though some nuances in alternative methods are not explored."",
+    ""consistency"": ""The teacher analysis and rubric are mostly consistent with one another; however, slight variations in terminology (like aₙ vs. aₙ₊₁) could be standardized for full consistency."",
+    ""completeness"": ""The solution outline and rubric detail every key step and expected partial credit. The explanation of potential errors is implicitly covered but could include more explicit mention of common student mistakes."",
+    ""fairness"": ""The rubric is fair in awarding partial credit and in considering both correct setups and final simplifications. It adequately accounts for alternative but correct methods.""
+  },
+  ""recommendations"": ""Clarify notation consistently (e.g., using aₙ properly throughout) and consider including examples of common student mistakes to further guide graders and students."",
+  ""confidence"": 0.95
+}"
+"17. (12 分) $\triangle A B C$ 的内角 $A, B, C$ 的对边分别为 $a, b, c$, 已知 $2 \cos C$ ( $a \cos B+b \cos A)=c$.
+
+(I) 求 C;
+
+(II ) 若 $\mathrm{c}=\sqrt{7}, \triangle \mathrm{ABC}$ 的面积为 $\frac{3 \sqrt{3}}{2}$, 求 $\triangle \mathrm{ABC}$ 的周长.
+","Math_ShortAns_26","89.0","{
+  ""overall_score"": 89,
+  ""scores"": {
+    ""clarity"": 18,
+    ""coverage"": 18,
+    ""consistency"": 18,
+    ""completeness"": 17,
+    ""fairness"": 18
+  },
+  ""comments"": {
+    ""clarity"": ""The analysis is clearly worded overall; the explanation of the use of trigonometric identities and the steps are understandable, though a few phrases could be further simplified."",
+    ""coverage"": ""Most essential aspects of both parts I and II are addressed. The answer covers the key steps specified in the rubric, albeit with slight brevity in some intermediate transitions."",
+    ""consistency"": ""The reasoning aligns well with the rubric. The teacher correctly relates the use of the sine law and cosine law in different parts, showing internal consistency between the steps."",
+    ""completeness"": ""The analysis touches on all aspects required by the rubric (justification of sin C ≠ 0, obtaining cos C, setting up the cosine law, using the area formula, and perimeter calculation). A bit more elaboration on the derivation of the side sum from the area formula could improve completeness."",
+    ""fairness"": ""The analysis fairly corresponds with the marks breakdown of the rubric and does not overemphasize or neglect any part. It gives balanced credit for operations that strictly adhere to the provided guidelines.""
+  },
+  ""recommendations"": ""Include more detailed intermediate steps, especially in the derivation of the side-product (ab) and the subsequent substitution into the cosine law relation. A brief reminder on why dividing by sin C is justified would further enhance clarity."",
+  ""confidence"": 0.95
+}"
+"17. (12 分) 已知数列 $\left\{a_{n}\right\}$ 的前 $n$ 项和为 $S_{n}, a_{1}=1, a_{n} \neq 0, a_{n} a_{n+1}=\lambda S_{n}-1$, 其中 $\lambda$ 为常数.
+
+( I ) 证明: $a_{n+2}-a_{n}=\lambda$
+
+(II ) 是否存在 $\lambda$, 使得 $\left\{a_{n}\right\}$ 为等差数列? 并说明理由.
+","Math_ShortAns_31","85.0","{
+  ""overall_score"": 85,
+  ""scores"": {
+    ""clarity"": 16,
+    ""coverage"": 17,
+    ""consistency"": 18,
+    ""completeness"": 16,
+    ""fairness"": 18
+  },
+  ""comments"": {
+    ""clarity"": ""The analysis is presented in a succinct manner; the key steps (subtracting the two relations and the arithmetic sequence assumption) are clearly stated, although some intermediate details could benefit from further elaboration."",
+    ""coverage"": ""Both parts of the question and their associated rubric criteria are addressed, including set‐up, subtraction, coefficient comparison, and final conclusion. More detailed discussion of student mistakes or alternative responses would further enrich the analysis."",
+    ""consistency"": ""The teacher analysis follows logically from the problem statement and is consistent with the rubric provided, ensuring that each step in the solution is aligned with the corresponding scoring criteria."",
+    ""completeness"": ""All necessary elements for awarding partial and full credit are mentioned; however, additional details (such as more explicit handling of potential student error cases) would contribute to a fuller picture."",
+    ""fairness"": ""The rubric seems well balanced. It allocates points fairly both for correct work and for partial credit, making it a suitable guide for evaluating diverse student responses.""
+  },
+  ""recommendations"": ""Expand on the explanation by discussing potential pitfalls or common mistakes that students might make, and provide further commentary on how these would affect score allocation per rubric dimension."",
+  ""confidence"": 0.95
+}"
+"18.
+
+11 分制乒乓球比赛, 每赢一球得 1 分, 当某局打成 $10: 10$ 平后, 每球交换发球权, 先多 得 2 分的一方获胜, 该局比赛结束. 甲、乙两位同学进行单打比赛, 假设甲发球时甲得 分的概率为 0.5 , 乙发球时甲得分的概率为 0.4 , 各球的结果相互独立.在某局双方 $10: 10$ 平后，甲先发球，两人又打了 $X$ 个球该局比赛结束.
+
+(1) 求 $P(X=2)$;
+
+(2) 求事件“ $X=4$ 且甲获胜”的概率.
+","Math_ShortAns_36","84.0","{
+  ""overall_score"": 84,
+  ""scores"": {
+    ""clarity"": 18,
+    ""coverage"": 16,
+    ""consistency"": 17,
+    ""completeness"": 15,
+    ""fairness"": 18
+  },
+  ""comments"": {
+    ""clarity"": ""The explanation is mostly clear, with the events (甲连续得分 and 乙连续得分) outlined for P(X=2) and a basic outline for P(X=4) given."",
+    ""coverage"": ""Major points from the rubric are mentioned. However, some details – like a clear emphasis on the two orderings for the split in the first two balls for part (2) – are not explicitly addressed."",
+    ""consistency"": ""The analysis consistently follows the idea of breaking down events into separate cases, though it would benefit from a more precise matching of the rubric steps."",
+    ""completeness"": ""While foundational reasoning is provided, the explanation could be more detailed, particularly regarding the alternative sequences for P(X=4) and the explicit probability computations."",
+    ""fairness"": ""The teacher analysis and rubric are fair and balanced in their treatment of the problem, despite minor omissions.""
+  },
+  ""recommendations"": ""Include explicit mention and computation for both ordering possibilities in part (2) to fully satisfy the rubric, and elaborate further on the step-by-step probability calculations."",
+  ""confidence"": 0.95
+}"
+"18. $\triangle A B C$ 的内角 $A, B, C$ 的对边分别为 $a, b, c$, 已知 $a \sin \frac{A+C}{2}=b \sin A$.
+
+(1) 求 $B$;
+
+(2) 若 $\triangle A B C$ 为锐角三角形, 且 $c=1$, 求 $\triangle A B C$ 面积的取值范围.
+","Math_ShortAns_41","75.0","{
+  ""overall_score"": 75,
+  ""scores"": {
+    ""clarity"": 15,
+    ""coverage"": 14,
+    ""consistency"": 17,
+    ""completeness"": 13,
+    ""fairness"": 16
+  },
+  ""comments"": ""The teacher analysis is intelligible and follows the right approach in both parts, but it remains terse. While it correctly indicates the use of the sine law and triangle properties to get the answer for part (1) and outlines a plan for part (2), it omits some of the intermediate algebraic steps. This can confuse students who need more explicit reasoning. The rubric is generally in line with the expected solution structure, but some transitions (especially in the area range derivation) are underdeveloped."",
+  ""recommendations"": ""Include more detailed intermediate steps, particularly for part (2), to better illuminate the transition from the sine law to the area function, and explicitly justify any cancellations or use of identities. Clarify the role of any constants (like the mysterious 12/25) if they are essential. This would make the analysis both a stronger teaching tool and a more precise guide for grading."",
+  ""confidence"": 0.9
+}"
+"18. 记 $S_{n}$ 为数列 $\left\{a_{n}\right\}$ 的前 $n$ 项和, 已知 $a_{n}>0, a_{2}=3 a_{1}$, 且数列 $\left\{\sqrt{S_{n}}\right\}$ 是等差数列, 证明: $\left\{a_{n}\right\}$ 是等差数 列.
+","Math_ShortAns_45","86.0","{
+  ""overall_score"": 86,
+  ""scores"": {
+    ""clarity"": 16,
+    ""coverage"": 17,
+    ""consistency"": 18,
+    ""completeness"": 17,
+    ""fairness"": 18
+  },
+  ""comments"": ""Clarity: The analysis is succinct and to the point but could benefit from a bit more explanation of intermediate steps. Coverage: All key components (computing the common difference, expressing the term for √Sₙ, squaring to get Sₙ, and deducing aₙ) are mentioned though more detail on possible student pitfalls would be welcome. Consistency: The solution path is logically structured and consistent with the rubric, with clear connections between steps. Completeness: The outline addresses all necessary steps to reach that {aₙ} is an arithmetic sequence, but minor elaborations on potential edge cases (like positive term conditions) would improve it. Fairness: The rubric is balanced, offering partial credit for each step and is fair regarding typical student mistakes."",
+  ""recommendations"": ""Consider providing a slightly more detailed explanation, especially for each algebraic manipulation, and anticipate common student errors by explicitly discussing why certain substitutions (like a₂ = 3a₁) directly lead to d = √a₁. Including examples of partial work could also help students understand where partial credit might be awarded."",
+  ""confidence"": 0.95
+}"
+"18. 记 $S_{n}$ 为数列 $\left\{a_{n}\right\}$ 的前 $n$ 项和. 已知 $\frac{2 S_{n}}{n}+n=2 a_{n}+1$.
+
+(1) 证明: $\left\{a_{n}\right\}$ 是等差数列;
+
+(2) 若 $a_{4}, a_{7}, a_{9}$ 成等比数列, 求 $S_{n}$ 的最小值.
+","Math_ShortAns_49","81.0","{
+  ""overall_score"": 81,
+  ""scores"": {
+    ""clarity"": 16,
+    ""coverage"": 16,
+    ""consistency"": 18,
+    ""completeness"": 15,
+    ""fairness"": 16
+  },
+  ""comments"": {
+    ""clarity"": ""The analysis is written in clear terms and conveys the main ideas, though some steps (especially in part (2)) are abbreviated."",
+    ""coverage"": ""All key components of the problem are mentioned. It addresses both parts and connects to the rubric, but detailed intermediate steps could be expanded."",
+    ""consistency"": ""The teacher’s reasoning is consistent with the steps outlined in the rubric, using proper equations and properties without contradictory statements."",
+    ""completeness"": ""While the major points are hit, the explanation for part (2) is somewhat terse, leaving room for more explicit derivations and explanation of the quadratic minimum."",
+    ""fairness"": ""The provided solution assumptions and approach are fair to students, giving sufficient hints without revealing all steps; however, slightly more detail would benefit diverse student backgrounds.""
+  },
+  ""recommendations"": ""Include additional details in the derivation, particularly in part (2) regarding the use of the geometric sequence and the minimization of the quadratic sum expression. A step-by-step breakdown would aid students who might struggle with the transition between different forms of the expressions."",
+  ""confidence"": 0.95
+}"
+"19.
+
+已知数列 $\left\{a_{n}\right\}$ 和 $\left\{b_{n}\right\}$ 满足 $a_{1}=1, b_{1}=0,4 a_{n+1}=3 a_{n}-b_{n}+4,4 b_{n+1}=3 b_{n}-a_{n}-4$.
+
+(1) 证明: $\left\{a_{n}+b_{n}\right\}$ 是等比数列, $\left\{a_{n}-b_{n}\right\}$ 是等差数列;
+
+(2) 求 $\left\{a_{n}\right\}$ 和 $\left\{b_{n}\right\}$ 的通项公式.
+","Math_ShortAns_53","93.0","{
+  ""overall_score"": 93,
+  ""scores"": {
+    ""clarity"": 18,
+    ""coverage"": 18,
+    ""consistency"": 20,
+    ""completeness"": 17,
+    ""fairness"": 20
+  },
+  ""comments"": ""The analysis and rubric are clearly presented and easy to follow. The integration of auxiliary sequences (cₙ and dₙ) and linking them to the form of the recurrences are done in a consistent manner. While the teacher analysis covers both parts, the explanation could benefit from slightly more detail especially in the derivation steps to enhance completeness. The rubric is fair and matches the solution approach expected from students."",
+  ""recommendations"": ""Consider expanding the detailed steps in the teacher analysis for each part of the solution to help students understand the derivations. Including minor pitfalls or common mistakes within the explanation might further improve the learning utility of the rubric."",
+  ""confidence"": 0.95
+}"
+"19. (12 分) 为了监控某种零件的一条生产线的生产过程, 检验员每隔 30min 从该生产线上随机抽取一个零件, 并测量其尺寸（单位: $\mathrm{cm}$ ）. 下面是检验 员在一天内依次抽取的 16 个零件的尺寸:
+
+<table border='1'>
+  <tr>
+    <td>抽取次序</td>
+    <td>1</td>
+    <td>2</td>
+    <td>3</td>
+    <td>4</td>
+    <td>5</td>
+    <td>6</td>
+    <td>7</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>零件尺寸</td>
+    <td>9.95</td>
+    <td>10.12</td>
+    <td>9.96</td>
+    <td>9.96</td>
+    <td>10.01</td>
+    <td>9.92</td>
+    <td>9.98</td>
+    <td>10.04</td>
+  </tr>
+  <tr>
+    <td>抽取次序</td>
+    <td>9</td>
+    <td>10</td>
+    <td>11</td>
+    <td>12</td>
+    <td>13</td>
+    <td>14</td>
+    <td>15</td>
+    <td>16</td>
+  </tr>
+  <tr>
+    <td>零件尺寸</td>
+    <td>10.26</td>
+    <td>9.91</td>
+    <td>10.13</td>
+    <td>10.02</td>
+    <td>9.22</td>
+    <td>10.04</td>
+    <td>10.05</td>
+    <td>9.95</td>
+  </tr>
+</table>
+
+经计算得 $\bar{x}=\frac{1}{16} \sum_{i=1}^{16} x_{i}=9.97, s=\sqrt{\frac{1}{16} \sum_{i=1}^{16}\left(x_{i}-\bar{x}\right)^{2}}=\sqrt{\frac{1}{16}\left(\sum_{i=1}^{16} x_{i}{ }^{2}-16 \bar{x}^{2}\right)} \approx 0.212$,
+
+$$\\\sqrt{\sum_{i=1}^{16}(i-8.5)^{2}} \approx 18.439, \sum_{i=1}^{16}\left(x_{i}-\bar{x}\right) \quad(i-8.5)=-2.78 \text {, 其中 } x_{i} \text { 为抽取的第 }\\$$
+
+$\mathrm{i}$ 个零件的尺寸, $\mathrm{i}=1,2, \ldots, 16$.
+
+(1) 求 $\left(x_{i}, i\right)(i=1,2, \ldots, 16 ）$ 的相关系数 $r$, 并回答是否可以认为这一天 生产的零件尺寸不随生产过程的进行而系统地变大或变小（若 $|r|<0.25$, 则 可以认为零件的尺寸不随生产过程的进行而系统地变大或变小）.
+
+（2）一天内抽检零件中, 如果出现了尺寸在 $(\bar{x}-3 s, \bar{x}+3 s)$ 之外的零件, 就认 为这条生产线在这一天的生产过程可能出现了异常情况, 需对当天的生产过 程进行检查.
+
+（i ）从这一天抽检的结果看, 是否需对当天的生产过程进行检查?
+
+(ii ) 在 ( $\overline{\mathrm{x}}-3 \mathrm{~s}, \overline{\mathrm{x}}+3 \mathrm{~s})$ 之外的数据称为离群值, 试剔除离群值, 估计这条生 产线当天生产的零件尺寸的均值与标准差.（精确到 0.01 ）
+
+附: 样本 $\left(x_{i}, y_{i}\right) \quad(i=1,2, \ldots, n)$ 的相关系数 $r=\frac{\sum_{i=1}^{n}\left(x_{i}-\bar{x}\right)\left(y_{i}-\bar{y}\right)}{\sqrt{\sum_{i=1}^{n}\left(x_{i}-\bar{x}\right)^{2} \sqrt{\sum_{i=1}^{n}\left(y_{i}-\bar{y}\right)^{2}}}}$ , $\sqrt{0.008} \approx 0.09$.
+","Math_ShortAns_58","88.0","{
+  ""QUESTION"": ""19. (12 分) 为了监控某种零件的一条生产线的生产过程, 检验员每隔 30min 从该生产线上随机抽取一个零件, 并测量其尺寸（单位: cm ）. 下面是检验员在一天内依次抽取的 16 个零件的尺寸:\n\n<table border='1'>\n  <tr>\n    <td>抽取次序</td>\n    <td>1</td>\n    <td>2</td>\n    <td>3</td>\n    <td>4</td>\n    <td>5</td>\n    <td>6</td>\n    <td>7</td>\n    <td>8</td>\n  </tr>\n  <tr>\n    <td>零件尺寸</td>\n    <td>9.95</td>\n    <td>10.12</td>\n    <td>9.96</td>\n    <td>9.96</td>\n    <td>10.01</td>\n    <td>9.92</td>\n    <td>9.98</td>\n    <td>10.04</td>\n  </tr>\n  <tr>\n    <td>抽取次序</td>\n    <td>9</td>\n    <td>10</td>\n    <td>11</td>\n    <td>12</td>\n    <td>13</td>\n    <td>14</td>\n    <td>15</td>\n    <td>16</td>\n  </tr>\n  <tr>\n    <td>零件尺寸</td>\n    <td>10.26</td>\n    <td>9.91</td>\n    <td>10.13</td>\n    <td>10.02</td>\n    <td>9.22</td>\n    <td>10.04</td>\n    <td>10.05</td>\n    <td>9.95</td>\n  </tr>\n</table>\n\n经计算得 x̄ = (1/16)∑xᵢ = 9.97, s = √((1/16)∑(xᵢ - x̄)²) = √((1/16)(∑xᵢ² - 16x̄²)) ≈ 0.212,\n\n√(∑₍ᵢ₌₁₋₁₆₎(i - 8.5)²) ≈ 18.439, ∑₍ᵢ₌₁₋₁₆₎ (xᵢ - x̄)(i - 8.5) = -2.78, 其中 xᵢ 为抽取的第 i 个零件的尺寸, i = 1,2,...,16.\n\n(1) 求 (xᵢ, i) (i=1,2,...,16) 的相关系数 r, 并回答是否可以认为这一天生产的零件尺寸不随生产过程的进行而系统地变大或变小（若 |r| < 0.25, 则可以认为零件的尺寸不随生产过程的进行而系统地变大或变小).\n\n(2) 一天内抽检零件中, 如果出现了尺寸在 (x̄ - 3s, x̄ + 3s) 之外的零件, 就认为这条生产线在这一天的生产过程可能出现了异常情况, 需对当天的生产过程进行检查.\n\n   (i) 从这一天抽检的结果看, 是否需对当天的生产过程进行检查?\n\n   (ii) 在 (x̄ - 3s, x̄ + 3s) 之外的数据称为离群值, 试剔除离群值, 估计这条生产线当天生产的零件尺寸的均值与标准差.（精确到 0.01）\n\n附: 样本 (xᵢ, yᵢ) (i=1,2,...,n) 的相关系数 r = [∑(xᵢ - x̄)(yᵢ - ȳ)] / [√(∑(xᵢ - x̄)²) √(∑(yᵢ - ȳ)²)], √0.008 ≈ 0.09."",
+  ""overall_score"": 88,
+  ""scores"": {
+    ""clarity"": 18,
+    ""coverage"": 17,
+    ""consistency"": 18,
+    ""completeness"": 17,
+    ""fairness"": 18
+  },
+  ""comments"": ""The teacher analysis clearly identifies the necessary computations (e.g., using provided mean, standard deviation, and criteria) and outlines the process for checking the correlation, identifying outliers, and recalculating statistics without them. Minor details regarding alternative student approaches and rounding pitfalls could be expanded."",
+  ""recommendations"": ""Consider adding a step‐by‐step breakdown for recalculating the new mean and standard deviation after removing the outlier, and discuss common student errors such as misidentifying the outlier or rounding inconsistently."",
+  ""confidence"": 0.95
+}"
+"20. (12 分) 已知抛物线 $C: y^{2}=2 x$, 过点 $(2,0)$ 的直线।交 $C$ 于 $A, B$ 两点, 圆 $M$ 是以线段 $A B$ 为直径的圆.
+
+(1) 证明：坐标原点 $O$ 在圆 $M$ 上;
+
+(2) 设圆 $M$ 过点 $P(4,-2)$, 求直线 $।$ 与圆 $M$ 的方程.
+","Math_ShortAns_63","84.0","{
+  ""overall_score"": 84,
+  ""scores"": {
+    ""clarity"": 17,
+    ""coverage"": 16,
+    ""consistency"": 18,
+    ""completeness"": 15,
+    ""fairness"": 18
+  },
+  ""comments"": ""The teacher analysis is mostly clear and shows valid alternative methods for part (1) and a reasonable outline for part (2). However, the explanation sometimes assumes familiarity with vector dot products and Vieta’s formulas without detailing intermediate steps, which might not help all students. While most necessary components are mentioned, some elaboration (especially in part (2)) would further enhance understanding and reduce ambiguity in handling special cases."",
+  ""recommendations"": ""Include more detailed step-by-step derivations for each method, especially for part (2). Explicitly note any assumptions or case distinctions (like the treatment of the vertical case) and provide sample calculations or diagrams that might help students visualize the geometry. Consider clarifying the connection between the algebraic setup and the geometric interpretation."",
+  ""confidence"": 0.9
+}"
+"20. (12 分) 已知点 $P(2,2)$, 圆 $C: x^{2}+y^{2}-8 y=0$, 过点 $P$ 的动直线 $\mid$ 与圆 $C$ 交于 $A, B$ 两点, 线段 $A B$ 的中点为 $M, O$ 为坐标原点.
+
+(1) 求 $M$ 的轨迹方程;
+
+（2）当 $|O P|=|O M|$ 时, 求 $\mid$ 的方程及 $\triangle P O M$ 的面积.
+","Math_ShortAns_67","74.0","{
+  ""QUESTION"": ""20. (12 分) 已知点 P(2,2), 圆 C: x²+y²-8y=0, 过点 P 的动直线 | 与圆 C 交于 A, B 两点, 线段 AB 的中点为 M, O 为坐标原点.\n\n(1) 求 M 的轨迹方程;\n\n（2）当 |OP|=|OM| 时, 求 | 的方程及 △POM 的面积."",
+  ""overall_score"": 74,
+  ""scores"": {
+    ""clarity"": 15,
+    ""coverage"": 15,
+    ""consistency"": 15,
+    ""completeness"": 13,
+    ""fairness"": 16
+  },
+  ""comments"": ""The teacher analysis is reasonably clear in outlining the main method (rewriting the circle, using vector dot product for the perpendicularity condition, and employing slope relations). However, the explanation is terse. While all major rubric points are mentioned, some steps – such as detailed expansion of the dot product or the explicit computation of distances and triangle area – are only alluded to rather than fully worked out. Notation is mostly consistent though a few symbols (like using N for the circle of M's locus) are introduced with little explanation."",
+  ""recommendations"": ""Provide more step‐by‐step detail in the derivations so students can follow the logical flow more easily. Clarify the introduction of auxiliary points (such as N) and explicitly write out intermediate algebraic manipulations. This will improve clarity and completeness without compromising fairness."",
+  ""confidence"": 0.9
+}"
+"20. 已知椭圆 $E$ 的中心为坐标原点, 对称轴为 $x$ 轴、 $y$ 轴, 且过 $A(0,-2), B\left(\frac{3}{2},-1\right)$ 两点.
+
+(1) 求 $E$ 的方程;
+
+(2) 设过点 $P(1,-2)$ 的直线交 $E$ 于 $M, N$ 两点, 过 $M$ 且平行于 $x$ 轴的直线与线段 $A B$ 交于 点 $T$, 点 $H$ 满足 $\overrightarrow{M T}=\overrightarrow{T H}$. 证明: 直线 $H N$ 过定点.
+","Math_ShortAns_71","65.0","{
+  ""QUESTION"": ""20. 已知椭圆 E 的中心为坐标原点, 对称轴为 x 轴、 y 轴, 且过 A(0,-2), B(3/2,-1) 两点.\n\n(1) 求 E 的方程;\n\n(2) 设过点 P(1,-2) 的直线交 E 于 M, N 两点, 过 M 且平行于 x 轴的直线与线段 AB 交于点 T, 点 H 满足 →MT = →TH. 证明: 直线 HN 过定点."",
+  ""overall_score"": 65,
+  ""scores"": {
+    ""clarity"": 15,
+    ""coverage"": 10,
+    ""consistency"": 15,
+    ""completeness"": 10,
+    ""fairness"": 15
+  },
+  ""comments"": {
+    ""clarity"": ""教师分析给出了一些提示，如直接代入求解和分情况讨论，但说明非常简略，关键步骤（特别是第二部分中的向量及固定点证明）表达不够明确。"",
+    ""coverage"": ""分析中只涉及基本替换和联立方程，未充分展开证明过程中涉及的各个点和特殊情况，忽略了可能学生在构造直线及使用向量公式时遇到的问题。"",
+    ""consistency"": ""整体分析和评分标准基本一致，但分析中个别符号（例如椭圆记为 E 与 C 混用）会引起混淆，并且各步之间的逻辑连接不足。"",
+    ""completeness"": ""在步骤提示上不够充分，尤其对第二问中如何确定 T、H 及证明固定点的部分，只是笼统指示未给出具体方法，使学生在解题时可能缺乏完整的指导。"",
+    ""fairness"": ""试题和评分标准设置较为合理，各部分难度与分值分布较均衡；然而教师的分析在提示上略显简单，可能会对部分学生造成误导。""
+  },
+  ""recommendations"": ""建议在教师解析中增加更多中间步骤和关键点的详细说明，特别是对直线方程的设定、特殊情况（如竖直直线）的讨论及向量性质的详细解释，以便更好地引导学生理解和解决题目。"",
+  ""confidence"": 0.9
+}"
+"20. （12 分) 已知椭圆 $C: \frac{x^{2}}{a^{2}}+\frac{y^{2}}{b^{2}}=1(a>b>0)$, 四点 $P_{1}(1,1), P_{2}(0,1$ ), $P_{3}\left(-1, \frac{\sqrt{3}}{2}\right), P_{4}\left(1, \frac{\sqrt{3}}{2}\right)$ 中恰有三点在椭圆 $C$ 上.
+
+(1) 求 C 的方程;
+
+(2) 设直线 $I$ 不经过 $P_{2}$ 点且与 $C$ 相交于 $A, B$ 两点. 若直线 $P_{2} A$ 与直线 $P_{2} B$ 的斜 率的和为 -1 , 证明: 1 过定点.
+","Math_ShortAns_75","87.0","{
+  ""QUESTION"": ""20. （12 分) 已知椭圆 C: x²/a² + y²/b² = 1 (a > b > 0), 四点 P₁(1, 1), P₂(0, 1), P₃(-1, √3/2), P₄(1, √3/2) 中恰有三点在椭圆 C 上.\n\n(1) 求 C 的方程;\n\n(2) 设直线 I 不经过 P₂ 点且与 C 相交于 A, B 两点. 若直线 P₂A 与直线 P₂B 的斜率的和为 -1, 证明: 直线 I 过定点.\n\nTEACHER ANALYSIS:\n（1）根据椭圆的对称性, 得到 P₂(0,1), P₃(-1, √3/2), P₄(1, √3/2) 三点在椭圆 C 上. 把 P₂(0,1), P₃(-1, √3/2) 代入椭圆 C, 求出 a² = 4 , b² = 1, 由此能求出椭圆 C 的方程.\n\n(2) 当斜率不存在时, 不满足; 当斜率存在时, 设 l: y = kx + t, (t ≠ 1), 联立 { y = kx+t,  x²+4y²-4=0 }, 得 (1+4k²)x² + 8ktx + 4t²-4 = 0, 由此利用根的判别式、丰达定理、直线方程, 结合已知条件能证明直线 I 过定点 (2, -1).\n\nRUBRIC:\n- [C1_identify_points] Correctly identifies which three of the four given points lie on the ellipse by using symmetry and the given coordinates. (Max Score: 2) [1 point for partially correct]\n- [C2_compute_parameters] Substitutes the coordinates of the appropriate points into the general ellipse equation to obtain equations for a² and b² and correctly solves them. (Max Score: 2) [1 point for partial derivation]\n- [C3_final_ellipse_equation] Writes the final equation of the ellipse correctly in standard form using the solved parameters (i.e., x²/4 + y² = 1). (Max Score: 2)\n- [C4_setup_line_conditions] For part (2), sets up the correct equation for the variable line I (considering the case when the slope exists) and forms the relation between the line and the ellipse by substitution. (Max Score: 2)\n- [C5_prove_fixed_point] Uses the slope-sum condition to derive a relation (like t = -2k -1) and shows that under this the fixed intersection is (2, -1). (Max Score: 2)\n- [C6_final_verification] Clearly verifies that any such line I passes through (2, -1), ensuring logical completeness. (Max Score: 2)"",
+  ""overall_score"": 87,
+  ""scores"": {
+    ""clarity"": 16,
+    ""coverage"": 15,
+    ""consistency"": 18,
+    ""completeness"": 18,
+    ""fairness"": 20
+  },
+  ""comments"": {
+    ""clarity"": ""The explanation is mostly clear in its structure; however, some steps (especially in part (2)) could benefit from a bit more elaboration for less experienced students."",
+    ""coverage"": ""Both parts of the problem are addressed, including the treatment of potential missing cases (e.g., undefined slope). Some minor potential pitfalls are not deeply discussed."",
+    ""consistency"": ""The teacher analysis is largely internally consistent with correct use of algebraic methods and clear logical flow."",
+    ""completeness"": ""All key elements of the solution and grading rubric are mentioned, though additional discussion on alternative student mistakes might add value."",
+    ""fairness"": ""The rubric is fair and gives clear partial credit rules; the provided analysis fairly aligns with expected student responses.""
+  },
+  ""recommendations"": ""Consider providing more detail on handling degenerate cases (such as when the slope does not exist) and discussing common student errors (e.g., misidentifying the three points on the ellipse). Additionally, clarifying some algebraic transitions could further help in bridging gaps for students with varied backgrounds."",
+  ""confidence"": 0.95
+}"
+"21. (12 分) 已知函数 $f(x)=\left(2+x+a x^{2}\right) \ln (1+x)-2 x$.
+
+（1）若 $a=0$, 证明: 当 $-1<x<0$ 时, $f(x)<0$; 当 $x>0$ 时, $f(x)>0$;
+
+(2) 若 $x=0$ 是 $f(x)$ 的极大值点, 求 $a$.
+","Math_ShortAns_80","88.0","{
+  ""overall_score"": 88,
+  ""scores"": {
+    ""clarity"": 16,
+    ""coverage"": 18,
+    ""consistency"": 19,
+    ""completeness"": 17,
+    ""fairness"": 18
+  },
+  ""comments"": {
+    ""clarity"": ""The teacher analysis and rubric are clearly stated, though some explanations (especially the derivative computations) could be more detailed."",
+    ""coverage"": ""The analysis covers both parts of the question and addresses key points, including substitution and monotonicity arguments."",
+    ""consistency"": ""The steps and requirements align with the rubric and are internally consistent without contradictions."",
+    ""completeness"": ""While most necessary steps are mentioned, additional intermediate calculation details could benefit students for full understanding."",
+    ""fairness"": ""The rubric fairly allocates points and the analysis matches the rubric guidelines, offering a balanced breakdown of expected student responses.""
+  },
+  ""recommendations"": ""Include more detailed intermediate steps and explanations in the teacher analysis to guide students through the derivations, particularly in the second derivative and sign analysis portions."",
+  ""confidence"": 0.95
+}"
+"21. (12 分) 已知函数 $f(x)=\ln x+a x^{2}+(2 a+1) x$.
+
+(1) 讨论 $f(x)$ 的单调性;
+
+（2）当 $a<0$ 时, 证明 $f(x) \leqslant-\frac{3}{4 a}-2$.
+","Math_ShortAns_84","72.0","{
+  ""QUESTION"": ""21. (12 分) 已知函数 f(x)= ln x + a x² + (2a+1)x.\n\n(1) 讨论 f(x) 的单调性;\n\n（2）当 a<0 时, 证明 f(x) ≤ -3/(4a) - 2."",
+  ""overall_score"": 72,
+  ""scores"": {
+    ""clarity"": 15,
+    ""coverage"": 14,
+    ""consistency"": 15,
+    ""completeness"": 12,
+    ""fairness"": 16
+  },
+  ""comments"": {
+    ""clarity"": ""The analysis states the main steps (derivative computation, case splitting, and substitution) clearly but could benefit from a more detailed, step-by-step explanation."",
+    ""coverage"": ""All major parts of the solution are mentioned: derivative analysis, identification of the maximum for a < 0, and the transformation of the inequality. However, some intermediate justifications are only alluded to."",
+    ""consistency"": ""The logical flow of moving from the derivative to the maximum to the inequality proof is maintained, though the treatment of the transformation lacks deeper explanation."",
+    ""completeness"": ""While the primary procedure is presented, several computational details and justifications (especially during the inequality transformation using g(t)) are omitted."",
+    ""fairness"": ""The teacher analysis covers the expected answer steps and provides appropriate pointers for partial credit, making it equitable for assessing diverse student responses.""
+  },
+  ""recommendations"": ""Include fuller derivations and more explicit reasoning, particularly when discussing the interval of monotonicity and when transforming the inequality via substitution. Providing detailed intermediate steps can help reduce ambiguity in student responses and improve grading consistency."",
+  ""confidence"": 0.9
+}"
+"21. (12 分) 已知函数 $f(x)=\mathrm{e}^{\mathrm{x}}-\ln (\mathrm{x}+\mathrm{m})$
+
+（I）设 $x=0$ 是 $f(x)$ 的极值点, 求 $m$, 并讨论 $f(x)$ 的单调性;
+
+(II）当 $m \leqslant 2$ 时, 证明 $f(x)>0$. 选考题: (第 22 题～第 24 题为选考题, 考生根据要求作答. 请考生在第 22、
+","Math_ShortAns_89","89.0","{
+  ""QUESTION"": ""21. (12 分) 已知函数 f(x)=e^x - ln(x+m)\n\n（I）设 x=0 是 f(x) 的极值点, 求 m, 并讨论 f(x) 的单调性;\n\n(II）当 m ≤ 2 时, 证明 f(x)>0. 选考题: (第 22 题～第 24 题为选考题, 考生根据要求作答. 请考生在第 22、"",
+  ""overall_score"": 89,
+  ""scores"": {
+    ""clarity"": 18,
+    ""coverage"": 18,
+    ""consistency"": 18,
+    ""completeness"": 17,
+    ""fairness"": 18
+  },
+  ""comments"": ""The teacher analysis and provided rubric are generally clear and well-structured. The explanation clearly outlines the steps for both parts of the question and aligns with the scoring details in the rubric. Some minor improvements could be made in detailing the domain analysis and addressing potential student missteps, which is why completeness was rated slightly lower."",
+  ""recommendations"": ""Include additional remarks on possible error points, such as common mistakes in differentiating and solving the derivative equation, and expand on the justification for reducing the proof in part (II) to the case m = 2. This would further support students in understanding the rationale behind each step."",
+  ""confidence"": 0.95
+}"
+"21. (12 分) 已知函数 $f(x)=e^{x}-a x^{2}$.
+
+（1）若 $a=1$, 证明: 当 $x \geqslant 0$ 时, $f(x) \geqslant 1$;
+
+(2) 若 $f(x)$ 在 $(0,+\infty)$ 只有一个零点, 求 $a$. （二）选考题：共 10 分。请考生在第 22、23 题中任选一题作答。如果多做, 则按所做的第一题计分。[选修 4-4：坐标系与参数方程]
+","Math_ShortAns_93","90.0","{
+  ""QUESTION"": ""21. (12 分) 已知函数 f(x)=e^x - a x².\n\n（1）若 a=1, 证明: 当 x ≥ 0 时, f(x) ≥ 1;\n\n(2) 若 f(x) 在 (0,+∞) 只有一个零点, 求 a. （二）选考题：共 10 分。请考生在第 22、23 题中任选一题作答。如果多做, 则按所做的第一题计分。[选修 4-4：坐标系与参数方程]"",
+  ""overall_score"": 90,
+  ""scores"": {
+    ""clarity"": 18,
+    ""coverage"": 17,
+    ""consistency"": 18,
+    ""completeness"": 18,
+    ""fairness"": 19
+  },
+  ""comments"": ""The teacher analysis and rubric are clearly stated with detailed hints for both parts of the problem. The analysis explicitly describes the use of derivative tests for monotonicity and suggests multiple methods for part (2), which contributes to overall consistency. Although the coverage is strong, some minor details and further justification for intermediate steps could be added to enhance clarity and completeness. The rubric is fair and considers various correct student approaches."",
+  ""recommendations"": ""Include slightly more detailed explanation or step-by-step derivations in the teacher analysis to help less experienced students understand the reasoning, especially in part (2). Clarify any potential ambiguities in the transition between methods to reinforce uniformity in scoring."",
+  ""confidence"": 1.0
+}"
+"21. (12 分) 已知函数 $f(x)=x-1-a \ln x$. (1) 若 $f(x) \geqslant 0$, 求 $a$ 的值;
+
+（2）设 $m$ 为整数，且对于任意正整数 $n,\left(1+\frac{1}{2}\right)\left(1+\frac{1}{2^{2}}\right) \cdots\left(1+\frac{1}{2^{n}}\right)<m$, 求 $m$ 的最小值.
+","Math_ShortAns_98","86.0","{
+  ""overall_score"": 86,
+  ""scores"": {
+    ""clarity"": 18,
+    ""coverage"": 16,
+    ""consistency"": 18,
+    ""completeness"": 16,
+    ""fairness"": 18
+  },
+  ""comments"": {
+    ""clarity"": ""The question statement and teacher analysis are mostly clear, with a well-structured breakdown of the key ideas. Minor ambiguity remains in the transition between case analyses in part (1)."",
+    ""coverage"": ""The solution covers the main approaches for both parts of the problem and outlines key techniques; however, it could mention more on potential student errors (e.g., misapplying the derivative or mis-summing the series)."",
+    ""consistency"": ""The teacher analysis and rubric are consistent with each other. The breakdown into derivative analysis for part (1) and geometric series usage for part (2) aligns well, though some details are assumed rather than explicitly stated."",
+    ""completeness"": ""Major aspects of the solution are addressed and grading points are clearly delineated. Additional comments on alternate student mistakes and deeper justification steps (especially for the uniqueness of the constant a=1) would make it complete."",
+    ""fairness"": ""The analysis and rubric are fair. They account for correct approaches and allow for partial credit where appropriate, although listing more possible error pathways could help ensure fairness to varied student responses.""
+  },
+  ""recommendations"": ""Clarify the case distinctions in the derivative analysis for part (1) further and explicitly discuss alternate wrong reasoning students might use in computing the product bounds. Adding illustrative examples of common mistakes would improve coverage and completeness."",
+  ""confidence"": 0.95
+}"
+"21. 已知函数 $f(x)=(x-1) \ln x-x-1$. 证明:
+
+(1) $f(x)$ 存在唯一的极值点;
+
+(2) $f(x)=0$ 有且仅有两个实根, 且两个实根互为倒数.
+","Math_ShortAns_103","82.0","{
+  ""overall_score"": 82,
+  ""scores"": {
+    ""clarity"": 16,
+    ""coverage"": 16,
+    ""consistency"": 18,
+    ""completeness"": 14,
+    ""fairness"": 18
+  },
+  ""comments"": ""The teacher analysis clearly outlines the main steps needed (derivation, monotonicity, sign-testing, reciprocal root argument) and is logically consistent. However, its clarity suffers slightly due to brevity in some explanations and lack of detailed computation steps. While most rubric points are addressed, the treatment of domain specifics, full justification of monotonicity, and the detailed rationale behind testing function values is somewhat abbreviated."",
+  ""recommendations"": ""Include a more detailed derivation of f'(x) with explicit application of product and chain rules, elaborate on the monotonicity argument by showing differentiation of the auxiliary function, and provide a more stepwise explanation of the reciprocal relation. These enhancements would improve clarity and completeness."",
+  ""confidence"": 0.9
+}"
+"21. 已知函数 $f(x)=\frac{e^{x}}{x}-\ln x+x-a$.
+
+(1) 若 $f(x) \geq 0$, 求 $a$ 的取值范围;
+
+(2) 证明: 若 $f(x)$ 有两个零点 $x_{1}, x_{2}$, 则环 $x_{1} x_{2}<1$.
+","Math_ShortAns_108","66.0","{
+  ""overall_score"": 66,
+  ""scores"": {
+    ""clarity"": 14,
+    ""coverage"": 12,
+    ""consistency"": 16,
+    ""completeness"": 10,
+    ""fairness"": 14
+  },
+  ""comments"": ""The teacher analysis succinctly outlines the main ideas for both parts of the problem. It clearly mentions using the derivative to find monotonicity and the minimum at x = 1 for part (1), and indicates a transformation approach for part (2). However, the explanation is brief and lacks details on key steps, including the complete derivative computation, deeper discussion on domain issues, and a rigorous setup for the proof in part (2). Some alternative reasoning paths and common student mistakes are not addressed, affecting both coverage and completeness."",
+  ""recommendations"": ""Improve the explanation by including more detailed computations (such as the derivative computation and explicit discussion of monotonicity on (0, 1) and (1, ∞)). For part (2), provide a clearer framework that identifies the positions of the zeros and a more rigorous transformation leading to the inequality. Elaborate on potential student errors and clarify the justification for each step."",
+  ""confidence"": 0.95
+}"
+"21. 设抛物线 $C: y^{2}=2 p x(p>0)$ 的焦点为 $F$, 点 $D(p, 0)$, 过 $F$ 的直线交 $C$ 于 $M, N$ 两 点. 当直线 $M D$ 垂直于 $x$ 轴时, $|M F|=3$. (1) 求 $C$ 的方程;
+
+(2) 设直线 $M D, N D$ 与 $C$ 的另一个交点分别为 $A, B$, 记直线 $M N, A B$ 的倾斜角分别为 $a, \beta$. 当 $a-\beta$ 取得最大值时, 求直线 $A B$ 的方程.
+","Math_ShortAns_112","74.0","{
+  ""QUESTION"": ""21. 设抛物线 C: y² = 2px (p>0) 的焦点为 F, 点 D(p, 0), 过 F 的直线交 C 于 M, N 两点. 当直线 MD 垂直于 x 轴时, |MF| = 3. (1) 求 C 的方程;\n\n(2) 设直线 MD, ND 与 C 的另一个交点分别为 A, B, 记直线 MN, AB 的倾斜角分别为 α, β. 当 α - β 取得最大值时, 求直线 AB 的方程."",
+  ""overall_score"": 74,
+  ""scores"": {
+    ""clarity"": 16,
+    ""coverage"": 14,
+    ""consistency"": 16,
+    ""completeness"": 12,
+    ""fairness"": 16
+  },
+  ""comments"": ""Clarity: The analysis is reasonably clear in outlining the main ideas, though some steps (especially in part (2)) are brief. Coverage: All major components are mentioned but several intermediate derivations are omitted. Consistency: The arguments do not conflict and follow a logical order, though they could be elaborated further. Completeness: While the key results are indicated, many detailed steps (e.g. full coordinate derivations, detailed use of Vieta’s formulas, resolving constants) are missing. Fairness: The rubric and partial credit guidance are well matched to the expected student work, offering a fair structure for scoring."",
+  ""recommendations"": ""Include more step‐by‐step computations, especially for part (2), to bridge the gap between the geometrical setup and the final numerical answers. Clarifying the use of Vieta’s formulas and the transition from the tangent subtraction formula to the condition k_AB = √2/2 would help students and graders alike."",
+  ""confidence"": 0.9
+}"
+"21. （12 分）已知函数 $f(x)$ 满足 $f(x)=f^{\prime} （ 1 ） e^{x-1}-f(0) x+\frac{1}{2} x^{2}$;
+
+（1）求 $f(x)$ 的解析式及单调区间;
+
+(2) 若 $\mathrm{f}(\mathrm{x}) \geqslant \frac{1}{2} \mathrm{x}^{2}+a x+b$, 求 $(a+1) b$ 的最大值.
+","Math_ShortAns_117","84.0","{
+  ""overall_score"": 84,
+  ""scores"": {
+    ""clarity"": 17,
+    ""coverage"": 16,
+    ""consistency"": 17,
+    ""completeness"": 16,
+    ""fairness"": 18
+  },
+  ""comments"": {
+    ""clarity"": ""The analysis is clearly written and provides a general roadmap for solving both parts of the problem, though it could benefit from more explicit detailing of the substitution steps."",
+    ""coverage"": ""The main ideas are touched upon for both tasks, but some finer points (like precise derivations and explanation of critical points for the inequality) are only implicitly referenced."",
+    ""consistency"": ""The teacher analysis and rubric are largely consistent with each other, and the approach is coherent across the parts of the question."",
+    ""completeness"": ""While the key steps are mentioned, the explanation would be more complete if it provided additional intermediate steps and justifications for every key deduction."",
+    ""fairness"": ""The rubric and analysis fairly reflect the complexity of the problem and consider partial credit for common student mistakes.""
+  },
+  ""recommendations"": ""Include more detailed intermediate steps, especially in the derivation of f(x) and the handling of the inequality, to better guide the students and clarify where partial credits are given."",
+  ""confidence"": 0.9
+}"
+"21. （12 分）已知函数 $f(x)=e^{x}-e^{-x}-2 x$.
+
+(I) 讨论 $f(x)$ 的单调性;
+
+（II）设 $g(x)=f(2 x)-4 b f(x)$, 当 $x>0$ 时, $g(x)>0$, 求 $b$ 的最大值; (III) 已知 $1.4142<\sqrt{2}<1.4143$, 估计 $\ln 2$ 的近似值（精确到 0.001 ）. 
+","Math_ShortAns_121","72.0","{
+  ""QUESTION"": ""21. （12 分）已知函数 f(x)=e^x-e^(-x)-2x.\n\n(I) 讨论 f(x) 的单调性;\n\n（II）设 g(x)=f(2x)-4b f(x), 当 x>0 时, g(x)>0, 求 b 的最大值;\n\n(III) 已知 1.4142<√2<1.4143, 估计 ln2 的近似值（精确到 0.001 ）."",
+  ""overall_score"": 72,
+  ""scores"": {
+    ""clarity"": 15,
+    ""coverage"": 14,
+    ""consistency"": 15,
+    ""completeness"": 13,
+    ""fairness"": 15
+  },
+  ""comments"": {
+    ""clarity"": ""分析简洁明了，对各部分内容有基本说明，但语言略显简略，部分说明可能令学生困惑。"",
+    ""coverage"": ""所有试题部分均有涉及，涵盖了单调性、最大 b 值和 ln2 的估计，但部分题目的解决步骤描述不够详尽。"",
+    ""consistency"": ""各部分之间逻辑大致一致，符合评分标准，但在部分推导过程中细节的衔接可以更清晰。"",
+    ""completeness"": ""对于 (I) 和 (II) 的分析基本完整，但 (III) 的说明显得过于概括，缺少具体计算步骤。"",
+    ""fairness"": ""评分标准与教师分析大体匹配，给学生留有适度发挥空间，但说明细节不足可能影响部分学生的理解。""
+  },
+  ""recommendations"": ""建议在分析中增加更多具体推导步骤，尤其是 (III) 部分对于如何利用 √2 的近似值估计 ln2 的过程，同时对 (II) 部分的单调性证明给出更多细节解释，以便考生更好地理解每一步推导逻辑。"",
+  ""confidence"": 0.9
+}"
+"21.已知函数 $f(x)=\sin ^{2} x \sin 2 x$.
+
+(1) 讨论 $f(x)$ 在区间 $(0, \pi)$ 的单调性;
+
+(2) 证明: $|f(x)| \leq \frac{3 \sqrt{3}}{8}$;
+
+(3) 设 $n \in N^{*}$, 证明: $\sin ^{2} x \sin ^{2} 2 x \sin ^{2} 4 x \ldots \sin ^{2} 2^{n} x \leq \frac{3^{n}}{4^{n}}$.
+","Math_ShortAns_125","73.0","{
+  ""overall_score"": 73,
+  ""scores"": {
+    ""clarity"": 14,
+    ""coverage"": 15,
+    ""consistency"": 16,
+    ""completeness"": 13,
+    ""fairness"": 15
+  },
+  ""comments"": ""The teacher analysis outlines the main steps for each part: computing the derivative and using it to determine monotonicity in (1), exploiting periodicity and critical values in (2), and suggesting a transformation approach in (3). However, the explanation is terse, omitting explicit computations (e.g., the exact derivation of the derivative and the determination of specific critical points), and some details in the product transformation in (3) could be elaborated further. The overall approach is consistent and covers all parts of the question, yet would benefit from more precise details in key steps."",
+  ""recommendations"": ""To enhance the analysis, include explicit calculations such as showing the derivative computation, outlining the determination of all critical points, and detailing the algebraic transformation for part (3). More thorough explanations would reduce ambiguity and better match the rubric's expectations."",
+  ""confidence"": 0.9
+}"
+"22. 在直角坐标系 $x O y$ 中, 以坐标原点为极点, $x$ 轴正半轴为极轴建立极坐标系, 曲线 $C$ 的极坐标方程为 $\rho=2 \sqrt{2} \cos \theta$
+
+(1) 将 $C$ 的极坐标方程化为直角坐标方程;
+
+(2) 设点 $A$ 的直角坐标为 $(1,0), M$ 为 $C$ 上的动点, 点 $P$ 满足 $\overrightarrow{A P}=\sqrt{2} \overrightarrow{A M}$, 写出 $P$ 的轨迹 $C_{1}$ 的参数方 程, 并判断 $C$ 与 $C_{1}$ 是否有公共点.
+","Math_ShortAns_130","89.0","{
+  ""overall_score"": 89,
+  ""scores"": {
+    ""clarity"": 18,
+    ""coverage"": 17,
+    ""consistency"": 18,
+    ""completeness"": 17,
+    ""fairness"": 19
+  },
+  ""comments"": {
+    ""clarity"": ""The question and teacher analysis are mostly clear, with well-defined instructions and steps. Minor room for improvement in explaining transitions between parts."",
+    ""coverage"": ""The analysis and rubric address all core components of the problem, but some details (especially in the vector part) could be expanded further."",
+    ""consistency"": ""The approach with the teacher analysis and rubric is consistent; each sub-problem is treated with a similar level of rigor and corresponds with the instructions."",
+    ""completeness"": ""All major reasoning steps are referenced; however, the explanations are somewhat abridged and could include additional intermediate details."",
+    ""fairness"": ""The rubric is well constructed and clearly allocates marks for partial credits, ensuring a fair assessment with explicit criteria.""
+  },
+  ""recommendations"": ""Enhance the detailed explanation in the teacher analysis, especially for the vector setup and derivation of the parametric equations, to guide students more comprehensively through the reasoning process."",
+  ""confidence"": 0.95
+}"
+"22. 已知曲线 $C_{1}, C_{2}$ 的参数方程分别为 $C_{1}$ : $\left\{\begin{array}{l}x=4 \cos ^{2} \theta, \\ y=4 \sin ^{2} \theta\end{array}\right.$ ( $\theta$ 为参数), $C_{2}:\left\{\begin{array}{l}x=t+\frac{1}{t}, \\ y=t-\frac{1}{t}\end{array}\right.$ ( $t$ 为参数).
+
+(1) 将 $C_{1}, C_{2}$ 的参数方程化为普通方程;
+
+(2) 以坐标原点为极点, $x$ 轴正半轴为极轴建立极坐标系. 设 $C_{1}, C_{2}$ 的交点为 $P$, 求圆心在极轴上, 且经过 极点和 $P$ 的圆的极坐标方程.
+","Math_ShortAns_134","76.0","{
+  ""QUESTION"": ""22. 已知曲线 C1, C2 的参数方程分别为 C1 : { x=4cos²θ,  y=4sin²θ } (θ 为参数), C2: { x=t+1/t,  y=t-1/t } (t 为参数).\n\n(1) 将 C1, C2 的参数方程化为普通方程;\n\n(2) 以坐标原点为极点, x 轴正半轴为极轴建立极坐标系. 设 C1, C2 的交点为 P, 求圆心在极轴上, 且经过 极点和 P 的圆的极坐标方程.\n\nTEACHER ANALYSIS:\n【分析】\n(1) 分别消去参数 θ 和 t 即可得到所求普通方程;\n(2) 两方程联立求得点 P, 求得所求圆的直角坐标方程后, 根据直角坐标与极坐标的互化即可得到所求极坐标方程.\n\nRUBRIC:\n- [C1_convert_C1] Convert the parametric equation of C1 to its Cartesian (ordinary) equation. (Max Score: 2)\n    Partial Credit: • Correct (2 points): Correctly uses the identity cos²θ + sin²θ = 1 to obtain x + y = 4.\n    • Partially Correct (1 point): Shows an appropriate attempt at eliminating the parameter (e.g., expressing cos²θ or sin²θ in terms of x or y) but with minor mistakes or missing justification.\n    • Incorrect (0 points): Fails to eliminate the parameter properly or obtains a wrong Cartesian equation.\n- [C2_convert_C2] Convert the parametric equation of C2 to its Cartesian (ordinary) equation. (Max Score: 2)\n    Partial Credit: • Correct (2 points): Correctly derives the relation x² - y² = 4 by eliminating the parameter t (e.g., by squaring the given expressions and taking the difference).\n    • Partially Correct (1 point): Attempts parameter elimination and obtains a related but incomplete or partly correct expression, or shows a valid strategy without correct final rearrangement.\n    • Incorrect (0 points): Uses an incorrect method or obtains an incorrect Cartesian equation for C2.\n- [C3_find_intersection] Determine the intersection point P of curves C1 and C2 by solving the derived Cartesian equations. (Max Score: 2)\n    Partial Credit: • Correct (2 points): Correctly sets up and solves the system {x + y = 4, x² - y² = 4} to obtain P = (5/2, 3/2) (or equivalent correct computation).\n    • Partially Correct (1 point): Correctly identifies the need to solve the system but makes minor algebraic errors leading to an incorrect or ambiguous point P.\n    • Incorrect (0 points): Fails to set up or solve the system, or obtains a clearly wrong point for P.\n- [C4_find_circle_rect_eq] Determine the rectangular equation of the circle with center on the x-axis passing through the origin and P. (Max Score: 2)\n    Partial Credit: • Correct (2 points): Correctly sets up the condition (distance from center (a,0) to P equals a and equals the radius) to find a = 17/10, and correctly derives the circle's rectangular equation.\n    • Partially Correct (1 point): Shows the idea of letting the center be (a,0) and setting up the distance equality but makes minor errors in calculation or equation formation.\n    • Incorrect (0 points): Fails to use the given conditions correctly, or derives an entirely wrong circle equation.\n- [C5_convert_to_polar] Convert the circle's rectangular equation into the corresponding polar equation. (Max Score: 2)\n    Partial Credit: • Correct (2 points): Correctly converts the rectangular equation into polar coordinates to obtain ρ = (17/5) cos θ.\n    • Partially Correct (1 point): Provides an attempt at conversion with a formula that partially aligns with polar conversion but contains errors in coefficient or trigonometric handling.\n    • Incorrect (0 points): Fails to make the correct conversion, or the polar equation does not reflect the proper transformation of the rectangular form."",
+  ""overall_score"": 76,
+  ""scores"": {
+    ""clarity"": 15,
+    ""coverage"": 15,
+    ""consistency"": 16,
+    ""completeness"": 14,
+    ""fairness"": 16
+  },
+  ""comments"": {
+    ""clarity"": ""The analysis is generally understandable but rather terse; more detailed explanations could help avoid ambiguity."",
+    ""coverage"": ""All major parts of the problem are mentioned; however, some important intermediate steps and justifications are omitted."",
+    ""consistency"": ""The teacher’s outline aligns with the rubric steps, and the overall logic is consistent across parts."",
+    ""completeness"": ""While all essential points are addressed, the solution lacks detailed derivations and elaboration that could help students fully grasp each step."",
+    ""fairness"": ""The provided analysis is balanced and seems to offer equitable credit allocation per rubric criteria.""
+  },
+  ""recommendations"": ""Include additional details and intermediate steps in the analysis to guide students better, especially in the process of eliminating parameters and transitioning to polar coordinates. Clarify assumptions and justify why each step is valid to minimize potential student errors or misinterpretations."",
+  ""confidence"": 0.95
+}"
+"22. 已知曲线 $C_{1}, C_{2}$ 的参数方程分别为 $C_{1}:\left\{\begin{array}{l}x=4 \cos ^{2} \theta, \\ y=4 \sin ^{2} \theta\end{array}\right.$ ( $\theta$ 为参数), $C_{2}:\left\{\begin{array}{l}x=t+\frac{1}{t}, \\ y=t-\frac{1}{t}\end{array}\right.$ ( $t$ 为参数).
+
+(1) 将 $C_{1}, C_{2}$ 的参数方程化为普通方程;
+
+(2) 以坐标原点为极点, $x$ 轴正半轴为极轴建立极坐标系. 设 $C_{1}, C_{2}$ 的交点为 $P$, 求圆心在极轴上, 且经过 极点和 $P$ 的圆的极坐标方程.
+","Math_ShortAns_138","74.0","{
+  ""overall_score"": 74,
+  ""scores"": {
+    ""clarity"": 15,
+    ""coverage"": 14,
+    ""consistency"": 15,
+    ""completeness"": 14,
+    ""fairness"": 16
+  },
+  ""comments"": {
+    ""clarity"": ""The teacher's analysis is intelligible and outlines the necessary steps, but the explanation is somewhat brief and could be clearer in detailing the derivations."",
+    ""coverage"": ""The response touches on all parts of the problem (conversion of both C1 and C2, intersection determination, circle derivation, and polar conversion), yet it does not fully elaborate on intermediate steps or alternative solution paths that students might consider."",
+    ""consistency"": ""The analysis and rubric are in line with one another. However, there is a slight mismatch in the level of detail provided in some parts of the solution versus the rubric expectations."",
+    ""completeness"": ""While all main components are addressed, the teacher analysis would benefit from further expansion on the demonstration of how common student mistakes might occur and how to rectify them."",
+    ""fairness"": ""The rubric provides clear criteria for partial credit at each stage, which is equitable for grading a range of student responses. Minor improvements in explicating assumptions could make the grading even more transparent.""
+  },
+  ""recommendations"": ""Include more detailed derivation steps and discuss potential student errors explicitly. A more thorough explanation in the teacher analysis could enhance guidance on awarding partial credit."",
+  ""confidence"": 0.9
+}"
+"23. 已知 $a, b, \mathrm{c}$ 都是正数, 且 $a^{\frac{3}{2}}+b^{\frac{3}{2}}+c^{\frac{3}{2}}=1$, 证明:
+
+(1) $a b c \leq \frac{1}{9}$
+
+(2) $\frac{a}{b+c}+\frac{b}{a+c}+\frac{c}{a+b} \leq \frac{1}{2 \sqrt{a b c}}$;
+","Math_ShortAns_142","48.0","{
+  ""overall_score"": 48,
+  ""scores"": {
+    ""clarity"": 12,
+    ""coverage"": 8,
+    ""consistency"": 10,
+    ""completeness"": 6,
+    ""fairness"": 12
+  },
+  ""comments"": ""Clarity: The analysis offers very brief hints (e.g. 'use the triple mean inequality') without elaboration, which may leave students uncertain about the detailed steps. Coverage: The teacher analysis omits many of the intermediate steps, especially in part (2), neglecting to address common pitfalls and partial credit scenarios described in the rubric. Consistency: While the analysis is internally consistent in suggesting the use of basic inequalities for both parts, it does not sufficiently connect to the detailed rubric expectations. Completeness: The teacher analysis is very minimal, lacking detailed algebraic manipulations or explicit demonstrations required to fully justify the proofs. Fairness: The hints given are somewhat fair but do not offer balanced guidance to allow students to recover partial credit on common mistakes."",
+  ""recommendations"": ""It would be beneficial to expand the explanation by outlining the step‐by‐step process for both parts: clearly setting up the AM–GM inequality for part (1) and providing explicit details on using denominator inequalities for part (2). Including common student errors and how to address them in the analysis would also help align better with the rubric."",
+  ""confidence"": 0.9
+}"
+"23. 已知 $a, b, c$ 均为正数, 且 $a^{2}+b^{2}+4 c^{2}=3$, 证明:
+
+(1) $a+b+2 c \leq 3$
+
+(2) 若 $b=2 c$, 则 $\frac{1}{a}+\frac{1}{c} \geq 3$.
+","Math_ShortAns_148","68.0","{
+  ""overall_score"": 68,
+  ""scores"": {
+    ""clarity"": 14,
+    ""coverage"": 13,
+    ""consistency"": 15,
+    ""completeness"": 12,
+    ""fairness"": 14
+  },
+  ""comments"": ""Clarity: The analysis is concise but somewhat terse, leaving room for ambiguity for less experienced students. Coverage: All key parts are mentioned, but some intermediate steps (like fully explaining the transition in part (2)) are omitted. Consistency: The approach is logical and in line with the rubric, though brief. Completeness: The solution omits a few details (e.g., a complete breakdown of the substitution process and equality conditions) that would help verify every step. Fairness: The analysis is generally fair in crediting the main ideas, although it could acknowledge more possible partial approaches."",
+  ""recommendations"": ""Expand on the intermediate computations and provide a fuller explanation of the steps, especially in part (2). Include remarks on equality conditions and potential alternative methods to help students understand various solution paths."",
+  ""confidence"": 0.95
+}"
+"23. 已知 $a>0, b>0, a^{3}+b^{3}=2$. 证明:
+
+(1) $(a+b)\left(a^{5}+b^{5}\right) \geqslant 4$;
+
+(2) $a+b \leqslant 2$.
+","Math_ShortAns_153","86.0","{
+  ""overall_score"": 86,
+  ""scores"": {
+    ""clarity"": 16,
+    ""coverage"": 18,
+    ""consistency"": 18,
+    ""completeness"": 16,
+    ""fairness"": 18
+  },
+  ""comments"": {
+    ""clarity"": ""The teacher analysis is generally clear but somewhat brief, assuming familiarity with the inequalities."",
+    ""coverage"": ""Both parts of the question are addressed, and the key steps are mentioned though some details are only sketched."",
+    ""consistency"": ""The explanation stays consistent with the use of Cauchy and AM–GM inequalities and algebraic steps throughout."",
+    ""completeness"": ""All required aspects of the problem are touched upon; however, additional detail (especially on equality conditions and intermediate steps) would improve completeness."",
+    ""fairness"": ""The analysis appropriately covers the problem without unnecessary complexity, offering proper credit to the intended solution strategy.""
+  },
+  ""recommendations"": ""Include more detailed intermediate steps, especially in the algebraic transformation for part (2) and note equality conditions explicitly. Clarifying the connection between the steps can help guide students more effectively."",
+  ""confidence"": 0.95
+}"
+"23. 已知 $a>0, b>0, a^{3}+b^{3}=2$. 证明:
+(1) $(a+b)\left(a^{5}+b^{5}\right) \geqslant 4$;
+( 2$) a+b \leqslant 2$.
+","Math_ShortAns_158","85.0","{
+  ""QUESTION"": ""23. 已知 a>0, b>0, a³+b³=2. 证明: (1) (a+b)(a⁵+b⁵) ≥ 4; (2) a+b ≤ 2."",
+  ""overall_score"": 85,
+  ""scores"": {
+    ""clarity"": 17,
+    ""coverage"": 18,
+    ""consistency"": 16,
+    ""completeness"": 16,
+    ""fairness"": 18
+  },
+  ""comments"": ""Clarity: The teacher analysis is brief but mostly clear; it states the main idea (using Cauchy and mean inequalities) though more explanation might help some students follow the reasoning. Coverage: Both parts of the problem and the key transformation and inequality applications are addressed, but a bit more detail (e.g. explicit writing of intermediate steps) could have provided extra clarity. Consistency: The solution follows a logical order and consistently uses standard inequalities, though the brevity occasionally leaves gaps in the full reasoning. Completeness: All critical steps are mentioned (Cauchy application, factorization, and use of the mean inequality), yet further explicit justification of equality conditions and transformation steps would make it more robust. Fairness: The solution fairly outlines the method and provides hints for the equality case (a = b = 1); however, some potential pitfalls (like alternative transformations) are not discussed, which is common in exam settings."",
+  ""recommendations"": ""Consider expanding the teacher analysis with more intermediate steps and clarifications on the transformations (especially in part (2)) to aid students in understanding how each inequality is applied. Also, a short note on potential alternative approaches or common mistakes might be helpful."",
+  ""confidence"": 0.95
+}"
+"23. 已知函数 $f(x)=-x^{2}+a x+4, g(x)=|x+1|+|x-1|$.
+
+（1）当 $a=1$ 时, 求不等式 $f(x) \geqslant g(x)$ 的解集;
+
+（2）若不等式 $f(x) \geqslant g(x)$ 的解集包含 $[-1,1]$, 求 $a$ 的取值范围.
+","Math_ShortAns_162","85.0","{
+  ""overall_score"": 85,
+  ""scores"": {
+    ""clarity"": 17,
+    ""coverage"": 16,
+    ""consistency"": 18,
+    ""completeness"": 16,
+    ""fairness"": 18
+  },
+  ""comments"": ""Clarity: The explanation is mostly clear with proper definitions, though some parts (especially the transition in part (2)) could be elaborated further. Coverage: Both parts of the question are addressed, but the discussion for part (2) is a bit brief and could include more details. Consistency: The analysis is consistent in its use of definitions and is well-structured over all steps. Completeness: Most necessary aspects are covered; however, additional intermediate steps or explicit solving details in part (2) would improve completeness. Fairness: The teacher analysis aligns well with the rubric and fairly assesses the required steps and reasoning."",
+  ""recommendations"": ""To improve the analysis, consider expanding on the solution process for part (2) by explicitly solving the inequalities at the endpoints and discussing why these conditions guarantee that [-1,1] is contained in the solution set. Adding minor clarifications in the breakdown of the cases for part (1) would also be beneficial."",
+  ""confidence"": 1.0
+}"
+"23. 已知曲线 $C_{1}$ 的参数方程为 $\left\{\begin{array}{l}x=4+5 \cos t \\ y=5+5 \sin t\end{array}\right.$ ( $t$ 为参数), 以坐标原点为极点, $x$ 轴的正半轴为极轴建立极坐标系, 曲线 $C_{2}$ 的极坐标方程为 $\rho=2 \sin \theta$.
+(1) 把 $C_{1}$ 的参数方程化为极坐标方程;
+(2) 求 $C_{1}$ 与 $C_{2}$ 交点的极坐标 $(\rho \geqslant 0,0 \leqslant \theta<2 \pi)$.
+","Math_ShortAns_166","94.0","{
+  ""overall_score"": 94,
+  ""scores"": {
+    ""clarity"": 18,
+    ""coverage"": 19,
+    ""consistency"": 20,
+    ""completeness"": 18,
+    ""fairness"": 19
+  },
+  ""comments"": {
+    ""clarity"": ""The question and teacher analysis are communicated clearly and the problem steps are well explained. Occasional mixed notation (Cartesian and polar) could confuse beginners slightly."",
+    ""coverage"": ""All required aspects of the problem are addressed. The teacher analysis and rubric cover the parameter elimination, conversion to polar form, system setup, and final conversion to polar intersection points thoroughly."",
+    ""consistency"": ""The provided solution steps and rubric are fully consistent with each other. The teacher analysis regularly aligns with the detailed rubric allocation."",
+    ""completeness"": ""The solution and analysis cover all parts of the question. Both conversion processes and handling of partial credit through rubric details are included, though minor details, like emphasizing the restriction on θ, could be expanded."",
+    ""fairness"": ""The rubric is fairly distributed among the different steps of the problem. Partial credit provisions are clear, and potential student mistakes are acknowledged without disadvantaging any aspect of the required work.""
+  },
+  ""recommendations"": ""Consider a slight simplification of the mixed coordinate language to ensure that students less comfortable with switching between Cartesian and polar coordinates are not unduly penalized. Additionally, explicitly reiterating the range conditions for θ can further aid students in understanding the complete requirements."",
+  ""confidence"": 1.0
+}"
+"23. 设 $a, b, c \in R, a+b+c=0, a b c=1$.
+
+(1) 证明: $a b+b c+c a<0$;
+
+(2) 用 $\max \{a, b, c\}$ 表示 $a, b, c$ 中的最大值，证明: $\max \{a, b, c\} \geq \sqrt[3]{4}$.
+","Math_ShortAns_170","65.0","{
+  ""overall_score"": 65,
+  ""scores"": {
+    ""clarity"": 14,
+    ""coverage"": 12,
+    ""consistency"": 15,
+    ""completeness"": 10,
+    ""fairness"": 14
+  },
+  ""comments"": {
+    ""clarity"": ""The teacher analysis provides a general sketch of the solution with hints, but many key steps are implicit and could confuse students."",
+    ""coverage"": ""Both parts of the question are mentioned; however, crucial derivation details (especially in part (2)) are missing, limiting the scope of explanation."",
+    ""consistency"": ""The approach uses standard identities and sign arguments consistently, although the presentation lacks uniform detail."",
+    ""completeness"": ""The analysis outlines the main ideas but omits detailed developments (e.g., the full derivation linking a^3 to 4), leaving gaps that might hinder complete understanding."",
+    ""fairness"": ""While the hints follow typical exam expectations, the scant explanations may not accommodate students who need a more thorough breakdown of the reasoning.""
+  },
+  ""recommendations"": ""Include explicit algebraic steps and clearly justify each assumption (such as sign conditions and the use of the identity) to aid students in following the logic. Expanding the explanation, particularly for part (2), would improve understanding."",
+  ""confidence"": 0.9
+}"
+"23. 设 $x, y, z \in R$ ，且 $x+y+z=1$.
+
+(1) 求 $(x-1)^{2}+(y+1)^{2}+(z+1)^{2}$ 的最小值;
+
+(2) 若 $(x-2)^{2}+(y-1)^{2}+(z-a)^{2} \geq \frac{1}{3}$ 成立, 证明: $a \leqslant-3$ 或 $a \geq-1$.
+","Math_ShortAns_174","68.0","{
+  ""QUESTION"": ""23. 设 $x, y, z \\\\in R$ ，且 $x+y+z=1$.\n\n(1) 求 $(x-1)^{2}+(y+1)^{2}+(z+1)^{2}$ 的最小值;\n\n(2) 若 $(x-2)^{2}+(y-1)^{2}+(z-a)^{2} \\geq \\frac{1}{3}$ 成立, 证明: $a \\leqslant-3$ 或 $a \\geq-1$.\n\nTEACHER ANALYSIS:\n【分析】}\n\n(1) 根据条件 $x+y+z=1$, 和柯西不等式得到 $(x-1)^{2}+(y+1)^{2}+(z+1)^{2} \\geq \\frac{4}{3}$, 再讨论 $x, y, z$ 是否可以达到等号成立的条件.\n\n(2) 恒成立问题, 柯西不等式等号成立时构造的 $x, y, z$ 代入原不等式, 便可得到参数的取值范围.\n\nRUBRIC:\n- [C1_part1_cauchy] Correctly set up and apply Cauchy’s inequality for part (1) to obtain a lower bound on (x-1)² + (y+1)² + (z+1)². (Max Score: 3)\n    Partial Credit: • 1 point for correctly expressing the weighted inequality: (x-1)²+(y+1)²+(z+1)² times (1²+1²+1²) ≥ [ (x-1)+(y+1)+(z+1) ]²; • 1 point for substituting x+y+z=1 and simplifying the right-hand side to (1+1)² = 4; • 1 point for deducing the lower bound as 4/3.\n- [C2_part1_equality] Identify and justify the equality condition in part (1) that leads to the minimum value. (Max Score: 2)\n    Partial Credit: • 1 point for stating that equality holds if and only if x-1 = y+1 = z+1; • 1 point for using x+y+z=1 together with this condition to solve for x, y, and z.\n- [C3_part2_cauchy] Apply Cauchy’s inequality in part (2) to derive a condition in terms of a. (Max Score: 3)\n    Partial Credit: • 1 point for setting up the inequality for (x-2)²+(y-1)²+(z-a)² analogous to part (1); • 1 point for multiplying by (1²+1²+1²) to transform the expression into a squared sum; • 1 point for obtaining the inequality (a+2)² \\geq 1.\n- [C4_part2_conclusion] Conclude part (2) by translating the inequality (a+2)² \\geq 1 into the parameter range a \\leq -3 or a \\geq -1. (Max Score: 2)\n    Partial Credit: • 1 point for correctly interpreting (a+2)² \\geq 1 as |a+2| \\geq 1; • 1 point for deducing and clearly stating that this inequality implies a \\leq -3 or a \\geq -1, along with brief justification of boundary conditions."",
+  ""overall_score"": 68,
+  ""scores"": {
+    ""clarity"": 14,
+    ""coverage"": 13,
+    ""consistency"": 14,
+    ""completeness"": 12,
+    ""fairness"": 15
+  },
+  ""comments"": {
+    ""clarity"": ""The analysis is terse; while it identifies key steps (application of Cauchy’s inequality), the explanation could be elaborated for greater clarity."",
+    ""coverage"": ""Both parts of the question are mentioned. However, not every step — particularly the derivation of the equality condition — is fully addressed."",
+    ""consistency"": ""The approach via Cauchy’s inequality is applied in each part, but the notation and transitions (e.g. '代入原不等式') are handled inconsistently."",
+    ""completeness"": ""Critical derivations and justifications (especially for the equality condition in part (1) and the reasoning behind the parameter range in part (2)) are only sketched rather than fully worked out."",
+    ""fairness"": ""The rubric reflects a balanced partial-credit breakdown; the teacher analysis, though brief, is reasonably aligned with the rubric expectations.""
+  },
+  ""recommendations"": ""Provide a more detailed, step-by-step derivation, including clear justification of when equality occurs and how the parameter conditions are derived. Enhancing the clarity of notation and transitions would also benefit students."",
+  ""confidence"": 0.95
+}"
+"23. 设 $x, y, z \in R$, 且 $x+y+z=1$.
+
+(1) 求 $(x-1)^{2}+(y+1)^{2}+(z+1)^{2}$ 的最小值;
+
+(2) 若 $(x-2)^{2}+(y-1)^{2}+(z-a)^{2} \geq \frac{1}{3}$ 成立, 证明: $a \leqslant-3$ 或 $a \geq-1$.
+","Math_ShortAns_178","63.0","{
+  ""QUESTION"": ""23. 设 $x, y, z \\in R$, 且 $x+y+z=1$.\n\n(1) 求 $(x-1)^{2}+(y+1)^{2}+(z+1)^{2}$ 的最小值;\n\n(2) 若 $(x-2)^{2}+(y-1)^{2}+(z-a)^{2} \\geq \\frac{1}{3}$ 成立, 证明: $a \\leqslant-3$ 或 $a \\geq-1$."",
+  ""overall_score"": 63,
+  ""scores"": {
+    ""clarity"": 12,
+    ""coverage"": 12,
+    ""consistency"": 14,
+    ""completeness"": 10,
+    ""fairness"": 15
+  },
+  ""comments"": ""Clarity: The teacher analysis is very brief with only schematic references to the application of Cauchy inequality, which could confuse students. Coverage: Although the main ideas for both parts are mentioned, the discussion does not fully develop each step, especially the detailed verification of equality conditions. Consistency: The overall approach is in line with the rubric but lacks detailed, step-by-step elaboration. Completeness: Critical details, such as explicit algebraic manipulations and demonstration of how equality conditions are met, are missing. Fairness: The provided teacher analysis and rubric align in expectations, yet the explanation could be more accessible and complete for students."",
+  ""recommendations"": ""Provide a more detailed walkthrough that explicitly shows the application of Cauchy inequality, the derivation of the lower bound, and the verification of equality conditions. Expand on the algebraic steps in both parts to ensure that students can follow and understand each transition, and clarify how the parameter 'a' is deduced from the inequality."",
+  ""confidence"": 0.9
+}"
+"23. 设函数 $f(x)=5-|x+a|-|x-2|$.
+
+（1）当 $a=1$ 时, 求不等式 $f(x) \geqslant 0$ 的解集;
+
+（2）若 $f(x) \leqslant 1$, 求 $a$ 的取值范围.
+","Math_ShortAns_182","66.0","{
+  ""overall_score"": 66,
+  ""scores"": {
+    ""clarity"": 14,
+    ""coverage"": 12,
+    ""consistency"": 14,
+    ""completeness"": 10,
+    ""fairness"": 16
+  },
+  ""comments"": {
+    ""clarity"": ""The analysis outlines the main steps (transformation to a piecewise function and using geometric interpretation) but lacks elaboration on key details such as exact piecewise expressions or the step‐by‐step solving process."",
+    ""coverage"": ""It covers both parts of the problem and indicates the main ideas, yet it omits details on the derivations that would help students understand every transition, such as the identification of critical points and precise manipulation of inequalities."",
+    ""consistency"": ""The teacher analysis is generally consistent with the rubric. However, the method for handling absolute values in part (1) and the explanation for deducing the parameter range in part (2) are not explained with sufficient detail to ensure uniform understanding."",
+    ""completeness"": ""Key points are mentioned (e.g., going to a piecewise function and using triangle inequality) but the analysis is too terse to serve as a fully comprehensive guide, and several intermediate steps are assumed rather than explicitly shown."",
+    ""fairness"": ""The expectations for the students are fair, and the alignment with the rubric is maintained. However, more detailed guidance would help reduce student confusion.""
+  },
+  ""recommendations"": ""Include explicit step-by-step derivations: for part (1), clearly show the process of forming the piecewise function with identification of critical points (x=-1 and x=2) and solving the resulting inequalities; for part (2), detail the transformation from f(x) ≤ 1 to the equivalent |x+a| + |x-2| ≥ 4 and explicitly outline the application of the triangle inequality to deduce |a+2| ≥ 4. This would improve clarity and completeness."",
+  ""confidence"": 0.95
+}"
+"23.[选修 4-5: 不等式选讲]
+
+已知 $f(x)=|x-a| x+|x-2|(x-a)$.
+
+（1）当 $a=1$ 时, 求不等式 $f(x)<0$ 的解集;
+
+(2) 若 $x \in(-\infty, 1)$ 时, $f(x)<0$, 求 $a$ 的取值范围.
+","Math_ShortAns_186","83.0","{
+  ""overall_score"": 83,
+  ""scores"": {
+    ""clarity"": 17,
+    ""coverage"": 16,
+    ""consistency"": 17,
+    ""completeness"": 15,
+    ""fairness"": 18
+  },
+  ""comments"": {
+    ""clarity"": ""The analysis is concise and communicates the intended substitution and case division clearly, though it is somewhat skeletal in explanation."",
+    ""coverage"": ""It touches on both parts of the problem and outlines the necessary steps; however, more detail would be useful to guide students completely."",
+    ""consistency"": ""The analysis aligns well with the rubric, and the steps are in logical order without internal contradictions."",
+    ""completeness"": ""While the key ideas are mentioned, the analysis stops short of deriving explicit final answers and full justifications."",
+    ""fairness"": ""The evaluation criteria and guidance are fair and balanced, ensuring that students understand what is expected without giving away too much.""
+  },
+  ""recommendations"": ""Consider elaborating a bit more on the detailed steps, especially the simplification process and the final justification of the solution sets, to help students understand the derivation fully."",
+  ""confidence"": 0.95
+}"
+"23.已知 $a, b, c$ 为正数, 且满足 $a b c=1$. 证明:
+(1) $\frac{1}{a}+\frac{1}{b}+\frac{1}{c} \leq a^{2}+b^{2}+c^{2}$
+(2) $(a+b)^{3}+(b+c)^{3}+(c+a)^{3} \geq 24$.
+","Math_ShortAns_190","82.0","{
+  ""overall_score"": 82,
+  ""scores"": {
+    ""clarity"": 16,
+    ""coverage"": 16,
+    ""consistency"": 17,
+    ""completeness"": 15,
+    ""fairness"": 18
+  },
+  ""comments"": {
+    ""clarity"": ""The analysis is mostly clear and provides the necessary steps. However, some parts (e.g., the transition in part (2)) could be explained with more elaboration to fully guide a student reader."",
+    ""coverage"": ""Both parts of the problem are addressed with important key steps mentioned (like the transformation using abc = 1 and the use of AM-GM). There is room to include more intermediate steps or alternative approaches that students might use."",
+    ""consistency"": ""The reasoning is consistent throughout the analysis. The method applied in both parts follows a logical flow and ties back to the common techniques, though some detailed justifications are somewhat abbreviated."",
+    ""completeness"": ""Most key steps are mentioned but the explanation could be more comprehensive. For example, the equality conditions and some detailed justifications (especially in the application of standard inequalities) are not fully articulated."",
+    ""fairness"": ""The analysis is fair in presenting how the substitution and inequalities work. It also implicitly accounts for potential student variations by mentioning equality cases; however, explicit notes on partial credit guidelines for different common mistakes would further enhance fairness.""
+  },
+  ""recommendations"": ""Include intermediate steps and more detailed explanations (such as clarifying the equality conditions and explicitly stating the use of basic inequalities and AM-GM steps). Also, referencing common pitfalls or alternative correct solutions could benefit students and align closely with the rubric."",
+  ""confidence"": 0.95
+}"
+"24. (10 分) 设 $a, b, c, d$ 均为正数, 且 $a+b=c+d$, 证明:
+
+(1) 若 $a b>c d$, 则 $\sqrt{a}+\sqrt{b}>\sqrt{c}+\sqrt{d}$; 
+(2) $\sqrt{a}+\sqrt{b}>\sqrt{c}+\sqrt{d}$ 是 $|a-b|<|c-d|$ 的充要条件.
+","Math_ShortAns_196","69.0","{
+  ""overall_score"": 69,
+  ""scores"": {
+    ""clarity"": 15,
+    ""coverage"": 12,
+    ""consistency"": 15,
+    ""completeness"": 11,
+    ""fairness"": 16
+  },
+  ""comments"": {
+    ""clarity"": ""The analysis is clearly presented at a high level, with the conditions stated and the overall ideas mentioned, but it lacks step‐by‐step explication that would benefit students who need detailed guidance."",
+    ""coverage"": ""While all parts of the rubric are touched upon, many key intermediate steps (especially the explicit squaring expressions and detailed link between product inequalities and absolute differences) are only vaguely referenced."",
+    ""consistency"": ""The teacher’s analysis maintains a consistent reasoning approach across parts (1) and (2), though it assumes that students are familiar with the underlying inequality properties without further elaboration."",
+    ""completeness"": ""The response covers the main ideas but omits detailed derivations and rigorous justifications for some steps, leaving gaps that might confuse students or leave room for misunderstanding."",
+    ""fairness"": ""The analysis is balanced and does not favor any particular approach; it correctly acknowledges the two directions in part (2) and provides a clear overall equivalence, though further elaboration would improve student clarity.""
+  },
+  ""recommendations"": ""Improve the analysis by explicitly writing out the squaring steps and the derivation of the inequalities (both for the product and for the transformation to absolute difference inequalities). Providing concrete intermediate steps would help ensure that the solution is unambiguous and accessible to all students."",
+  ""confidence"": 0.95
+}"
+"24. 已知函数 $f(x)=|2 x-a|+a$.
+
+(1) 当 $a=2$ 时, 求不等式 $f(x) \leqslant 6$ 的解集;
+
+(2) 设函数 $g(x)=|2 x-1|$, 当 $x \in R$ 时, $f(x)+g(x) \geqslant 3$, 求 $a$ 的取值范围.
+","Math_ShortAns_200","66.0","{
+  ""QUESTION"": ""24. 已知函数 f(x)=|2 x-a|+a.\n\n(1) 当 a=2 时, 求不等式 f(x) ≤ 6 的解集;\n\n(2) 设函数 g(x)=|2 x-1|, 当 x ∈ R 时, f(x)+g(x) ≥ 3, 求 a 的取值范围."",
+  ""overall_score"": 66,
+  ""scores"": {
+    ""clarity"": 14,
+    ""coverage"": 12,
+    ""consistency"": 13,
+    ""completeness"": 12,
+    ""fairness"": 15
+  },
+  ""comments"": ""The teacher analysis correctly points out the essential substitutions and the main steps required by the problem. However, the presentation suffers from minor notation issues (e.g., the sign and presentation of the absolute value expression in part (1)) and does not fully expand on the case analysis needed in part (2). Some steps that could clarify potential student mistakes are glossed over."",
+  ""recommendations"": ""Provide a bit more detailed explanation on the transformation steps, especially in part (2), and ensure that the notation is consistent (e.g., clearly writing |2x-2| instead of ambiguous symbols). Including a discussion of possible pitfalls for students (such as misinterpreting the absolute value inequality) would enhance both clarity and coverage."",
+  ""confidence"": 0.95
+}"
+"24. 若 $a>0, b>0$, 且 $\frac{1}{a}+\frac{1}{b}=\sqrt{a b}$.
+
+( I ) 求 $a^{3}+b^{3}$ 的最小值;
+
+（II ) 是否存在 $a, b$, 使得 $2 a+3 b=6$ ? 并说明理由.
+","Math_ShortAns_204","80.0","{
+  ""overall_score"": 80,
+  ""scores"": {
+    ""clarity"": 14,
+    ""coverage"": 16,
+    ""consistency"": 17,
+    ""completeness"": 15,
+    ""fairness"": 18
+  },
+  ""comments"": ""The teacher analysis is fairly clear and reaches the correct conclusions, but the exposition is somewhat terse. While both parts of the problem (deriving the ab bound and establishing the nonexistence for part II) are addressed, the logical progression can be expanded further. The rubric is applied consistently to both parts, though some intermediate steps (e.g., the details on how the equality case is obtained) could have been elaborated upon."",
+  ""recommendations"": ""Include more detailed step-by-step derivations, especially for the transformation in part (I) and for the use of inequalities in part (II). Explicitly state all assumptions and conditions (such as equality cases) to ensure that the solution is self-contained and easy to follow."",
+  ""confidence"": 0.95
+}"
+"24. 若 $a>0, b>0$, 且 $\frac{1}{a}+\frac{1}{b}=\sqrt{a b}$.
+
+( I) 求 $a^{3}+b^{3}$ 的最小值;
+
+(II) 是否存在 $a, b$, 使得 $2 a+3 b=6$ ? 并说明理由.
+","Math_ShortAns_208","82.0","{
+  ""overall_score"": 82,
+  ""scores"": {
+    ""clarity"": 16,
+    ""coverage"": 18,
+    ""consistency"": 14,
+    ""completeness"": 16,
+    ""fairness"": 18
+  },
+  ""comments"": {
+    ""clarity"": ""The analysis is expressed in clear language but is rather succinct. More details on the reasoning would improve the clarity."",
+    ""coverage"": ""Both parts (I) and (II) are addressed, and the key ideas (using AM‐GM to get ab ≥ 2 and the subsequent derivations) are mentioned. However, the explanation remains brief."",
+    ""consistency"": ""There is a minor inconsistency in the lower bound for 2a + 3b—teacher analysis gives a bound >8 while the rubric expects a derivation leading to 4√3. This mismatch may confuse students."",
+    ""completeness"": ""The teacher analysis outlines the approach for both parts but omits intermediate steps and detailed justification, which would help students understand the full process."",
+    ""fairness"": ""The analysis and rubric make clear what is expected of students and what mistakes might be partially credited. Overall, the criteria are fair, although extra clarification on the derivation would aid fairness.""
+  },
+  ""recommendations"": ""Including more detailed intermediate steps, especially regarding the application of inequalities and a consistent lower bound for 2a+3b, would make the analysis more robust. Aligning the numeric bounds (e.g., matching 4√3 vs >8) would help avoid confusion."",
+  ""confidence"": 0.9
+}"
+"24. 设函数 $f(x)=\left|x+\frac{1}{a}\right|+|x-a|(a>0)$.
+
+( I ) 证明: $f(x) \geqslant 2$;
+
+(II) 若 $\mathrm{f}(3)<5$, 求 $\mathrm{a}$ 的取值范围.
+","Math_ShortAns_212","83.0","{
+  ""overall_score"": 83,
+  ""scores"": {
+    ""clarity"": 15,
+    ""coverage"": 18,
+    ""consistency"": 16,
+    ""completeness"": 16,
+    ""fairness"": 18
+  },
+  ""comments"": {
+    ""clarity"": ""The analysis communicates the main ideas (triangle inequality, AM–GM, and case analysis) but is somewhat terse and could be clearer in the step‐by‐step explanation."",
+    ""coverage"": ""It addresses all the major components outlined in the rubric, covering both parts of the problem and the necessary techniques, though some details are assumed rather than explicitly worked out."",
+    ""consistency"": ""The approach follows standard methods and is consistent with the rubric criteria; it does not contradict any requirements, though more explicit references to the steps would help."",
+    ""completeness"": ""All key steps (substitution, case splitting, solving inequalities and combining results) are mentioned, but the final algebraic details and justification of endpoints are not shown in full."",
+    ""fairness"": ""The analysis is fair and guides students towards the correct method without overly penalizing minor omissions, although more explicit explanation might help avoid common pitfalls.""
+  },
+  ""recommendations"": ""Consider expanding the explanations, especially for the case analysis and the final combination of results. Providing more detailed algebraic steps and clearer linkage between the triangle inequality application and the AM–GM step would improve clarity and completeness."",
+  ""confidence"": 1.0
+}"
+"24.设 $a, b, c$ 均为正数, 且 $a+b+c=1$, 证明:
+
+( I ) $a b+b c+c a \leqslant \frac{1}{3}$
+
+(II) $\frac{a^{2}}{b}+\frac{b^{2}}{c}+\frac{c^{2}}{a} \geqslant 1$.
+","Math_ShortAns_216","92.0","{
+  ""overall_score"": 92,
+  ""scores"": {
+    ""clarity"": 18,
+    ""coverage"": 18,
+    ""consistency"": 18,
+    ""completeness"": 18,
+    ""fairness"": 20
+  },
+  ""comments"": ""The teacher analysis is generally very clear and well-organized. It correctly states the expansion for part (I) and applies the basic inequalities effectively, while the approach for part (II) using AM–GM is well aligned with the rubric. The steps are consistent with the problem statement, though more detailed breakdowns (particularly on the summation step in part II) could enhance understanding."",
+  ""recommendations"": ""Consider adding more detailed intermediate steps and explanations to bridge the main ideas. More explicitly showing how the basic inequality leads to the result in part (I) and summing the three inequalities in part (II) would be beneficial, especially for students who need more guidance."",
+  ""confidence"": 0.95
+}"

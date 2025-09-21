@@ -1,0 +1,27 @@
+[
+  {
+    "id": "C1_find_face_area",
+    "description": "Finds the area of one face by dividing the total surface area by 6",
+    "max_score": 1,
+    "partial_credit": "• P1 for correctly calculating 150 ÷ 6 = 25"
+  },
+  {
+    "id": "C2_find_side_length",
+    "description": "Finds the side length of the cube by taking the square root of face area",
+    "max_score": 1,
+    "partial_credit": "• P1 for correctly calculating √25 = 5"
+  },
+  {
+    "id": "C3_find_volume",
+    "description": "Uses side length to calculate volume using V = side³",
+    "max_score": 1,
+    "partial_credit": "• P1 for correctly computing 5 x 5 x 5 = 125"
+  },
+  {
+    "id": "C4_final_answer",
+    "description": "Gives the correct volume of the cube",
+    "max_score": 1,
+    "partial_credit": "• A1 for final answer 125; award A1 for follow-through if prior steps show correct method"
+  }
+]
+
